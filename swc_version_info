@@ -1,0 +1,10 @@
+{
+	"data_update_version": 1,
+	"data": [
+		{
+			"table": "name here",
+			"version": 1,
+			"url": "here is the url"
+		}
+	]
+}
