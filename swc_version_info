@@ -1,10 +1,17 @@
 {
-	"data_update_version": 1,
-	"data": [
-		{
-			"table": "name here",
-			"version": 1,
-			"url": "here is the url"
-		}
-	]
+	"data_update": {
+		"data_version": 2,
+		"versions": [
+			{
+				"version": 2,
+				"updates": [
+					{
+						"table": "name here",
+						"version": 1,
+						"url": "here is the url"
+					}
+				]
+			}
+		]
+	}
 }
