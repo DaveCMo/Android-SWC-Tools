@@ -444,7 +444,7 @@
 		},
 		{
 			"game_name": "eqpEmpireBarracksSummonMedium",
-			"ui_name": "Bantha Guard Reserve",
+			"ui_name": "Dewback Guard Reserve",
 			"faction": "empire",
 			"available_on": "all",
 			"cap": 13
