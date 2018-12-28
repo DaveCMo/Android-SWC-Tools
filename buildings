@@ -1,0 +1,75 @@
+{
+	"version": 1,
+	"data": [
+		{
+			"game_name": "TrapDropship",
+			"ui_name": "IDT",
+			"faction": "empire",
+			"cap": 1,
+			"isTrap": true
+		},
+		{
+			"game_name": "TrapStrikeHeavy",
+			"ui_name": "TIE Striker",
+			"faction": "empire",
+			"cap": 1,
+			"isTrap": true
+		},
+		{
+			"game_name": "TrapStrikeGeneric",
+			"ui_name": "TIE Fighter",
+			"faction": "empire",
+			"cap": 1,
+			"isTrap": true
+		},
+		{
+			"game_name": "TrapStrikeAOE",
+			"ui_name": "TIE Bomber",
+			"faction": "empire",
+			"cap": 1,
+			"isTrap": true
+		},
+		{
+			"game_name": "TrapDropshipCreature",
+			"ui_name": "Strix Beacon",
+			"faction": "empire",
+			"cap": 1,
+			"isTrap": true
+		}
+		{
+			"game_name": "TrapDropship",
+			"ui_name": "LAAT",
+			"faction": "rebel",
+			"cap": 1,
+			"isTrap": true
+		},
+		{
+			"game_name": "TrapStrikeHeavy",
+			"ui_name": "Fang Fighter",
+			"faction": "rebel",
+			"cap": 1,
+			"isTrap": true
+		},
+		{
+			"game_name": "TrapStrikeGeneric",
+			"ui_name": "X-Wing",
+			"faction": "rebel",
+			"cap": 1,
+			"isTrap": true
+		},
+		{
+			"game_name": "TrapStrikeAOE",
+			"ui_name": "Y-wing",
+			"faction": "rebel",
+			"cap": 1,
+			"isTrap": true
+		},
+		{
+			"game_name": "TrapDropshipCreature",
+			"ui_name": "Strix Beacon",
+			"faction": "rebel",
+			"cap": 1,
+			"isTrap": true
+		}
+	]
+}
