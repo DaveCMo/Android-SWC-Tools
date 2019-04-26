@@ -349,7 +349,7 @@
 		"isTrap": false,
 		"isJunk": true,
 		"cap": 1
-	}
+	},
 	{
 		"game_name": "empireContrabandCantina",
 		"ui_name": "Cantina",
