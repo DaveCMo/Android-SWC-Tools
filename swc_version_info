@@ -203,6 +203,13 @@
 						"notes": [
 							"Added all buildings"
 						]
+					},
+						{
+						"version": 4,
+						"method": "replace",
+						"notes": [
+							"Added Generic field"
+						]
 					}
 				]
 			}
