@@ -170,6 +170,13 @@
 						"notes": [
 							"Added mapping for an imperial rancor"
 						]
+					},
+					{
+						"version": 15,
+						"method": "replace",
+						"notes": [
+							"Added new Salvaged Multi-Troop Transport unit."
+						]
 					}
 				]
 			},
