@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "data": [
     {
       "game_name": "troopRebelHeavyStormDeath",
@@ -788,7 +788,7 @@
       "cap": 10
     },
     {
-      "game_name": "specialAttackBwing",
+      "game_name": "specialAttackBWing",
       "ui_name": "Bwing",
       "faction": "rebel",
       "cap": 4
