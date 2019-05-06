@@ -177,6 +177,13 @@
 						"notes": [
 							"Added new Salvaged Multi-Troop Transport unit."
 						]
+					},
+					{
+						"version": 16,
+						"method": "replace",
+						"notes": [
+							"Updated Bwing data to fix incorrect matches."
+						]
 					}
 				]
 			},
