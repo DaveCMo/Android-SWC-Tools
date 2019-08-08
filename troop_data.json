@@ -1341,6 +1341,22 @@
       "cap": "12",
       "minLevel": 0,
       "maxLevel": 11
+    },
+    {
+       "game_name": "troopSecurityDroid",
+      "ui_name": "Security Droid",
+      "faction": "empire",
+      "cap": "4",
+      "minLevel": 0,
+      "maxLevel": 5
+    },
+      {
+       "game_name": "troopBigMouthAlien",
+      "ui_name": "Drabatan Saboteur",
+      "faction": "rebel",
+      "cap": "4",
+      "minLevel": 0,
+      "maxLevel": 5
     }
   ]
 }
