@@ -17,7 +17,7 @@
       "type": "sand",
       "war_name": "warBuff1",
       "minLevel": 0,
-      "maxLevel": 11
+      "maxLevel": 0
     },
     {
       "game_name": "planet6",
@@ -25,7 +25,7 @@
       "type": "sand",
       "war_name": "warBuff5",
       "minLevel": 0,
-      "maxLevel": 11
+      "maxLevel": 0
     },
     {
       "game_name": "planet3",
@@ -33,7 +33,7 @@
       "type": "green",
       "war_name": "warBuff2",
       "minLevel": 0,
-      "maxLevel": 11
+      "maxLevel": 0
     },
     {
       "game_name": "planet8",
@@ -41,7 +41,7 @@
       "type": "green",
       "war_name": "warBuff4",
       "minLevel": 0,
-      "maxLevel": 11
+      "maxLevel": 0
     },
     {
       "game_name": "planet23",
@@ -49,7 +49,7 @@
       "type": "green",
       "war_name": "warBuff6",
       "minLevel": 0,
-      "maxLevel": 11
+      "maxLevel": 0
     },
     {
       "game_name": "planet21",
@@ -57,7 +57,7 @@
       "type": "arctic",
       "war_name": "warBuff3",
       "minLevel": 0,
-      "maxLevel": 11
+      "maxLevel": 0
     }
   ]
 }
