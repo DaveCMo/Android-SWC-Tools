@@ -1,14 +1,9 @@
 {
  "name": "planets",
   "version": 1,
-  "versions": [
-    {
-      "version": 1,
-      "method": "replace",
-      "notes": [
-        "New structure with min/max versions"
-      ]
-    }
+   "level": false,
+  "notes": [
+    "New structure with min/max versions"
   ],
   "data": [
     {
