@@ -1,9 +1,9 @@
 {
   "name": "troop_data",
-  "version": 2,
+  "version": 3,
   "level": true,
   "notes": [
-    "New structure with min/max versions"
+    "New structure with min/max versions", "Fixed Y/A wing look up errors."
   ],
   "data": [
     {
@@ -1007,7 +1007,7 @@
       "maxLevel": 11
     },
     {
-      "game_name": "specialAttackYwing",
+      "game_name": "specialAttackYWing",
       "ui_name": "Y Wing",
       "faction": "rebel",
       "cap": "3",
@@ -1015,7 +1015,7 @@
       "maxLevel": 11
     },
     {
-      "game_name": "specialAttackAwing",
+      "game_name": "specialAttackAWing",
       "ui_name": "Awing",
       "faction": "rebel",
       "cap": "10",
