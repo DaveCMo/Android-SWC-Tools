@@ -1,9 +1,9 @@
 {
   "name": "troop_data",
-  "version": 3,
+  "version": 4,
   "level": true,
   "notes": [
-    "New structure with min/max versions", "Fixed Y/A wing look up errors."
+    "New structure with min/max versions", "Fixed Y/A wing look up errors.", "Added ranors"
   ],
   "data": [
     {
@@ -1357,6 +1357,23 @@
       "cap": "4",
       "minLevel": 0,
       "maxLevel": 5
-    }
+    },
+      {
+       "game_name": "troopRebelHunterRancorCreature",
+      "ui_name": "Hunter Rancor",
+      "faction": "rebel",
+      "cap": "20",
+      "minLevel": 0,
+      "maxLevel": 11
+      },
+      {
+       "game_name": "troopEmpireHunterRancorCreature",
+      "ui_name": "Hunter Rancor",
+      "faction": "empire",
+      "cap": "20",
+      "minLevel": 0,
+      "maxLevel": 11
+      }
+    
   ]
 }
