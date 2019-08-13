@@ -1,0 +1,1 @@
+{"version":1, "content":[{"question":"What is Error 1010?","answer":"This is 'Building Overlap'. Effectively there are buildings that aren't or cannot be moved out of the way of buildings in the layout you're trying to use. The most common reason for this is junk, but could also be due to the layout not having a position for all of your buildings (example the 'banners!)."}]}
