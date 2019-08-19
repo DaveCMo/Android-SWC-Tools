@@ -39,6 +39,22 @@
       "maxLevel": 11
     },
     {
+      "game_name": "troopRebelRageRancorCreature",
+      "ui_name": "Rage Rancor",
+      "faction": "rebel",
+      "cap": "20",
+      "minLevel": 0,
+      "maxLevel": 11
+    },
+    {
+      "game_name": "troopEmpireRageRancorCreature",
+      "ui_name": "Rage Rancor",
+      "faction": "rebel",
+      "cap": "20",
+      "minLevel": 0,
+      "maxLevel": 11
+    },
+    {
       "game_name": "troopHeavyRebel",
       "ui_name": "Heavy Soldier",
       "faction": "rebel",
