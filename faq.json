@@ -1,4 +1,4 @@
 {"version":1, "content":[{"question":"What is Error 1010?","answer":"This is 'Building Overlap'. Effectively there are buildings that aren't or cannot be moved out of the way of buildings in the layout you're trying to use. The most common reason for this is junk, but could also be due to the layout not having a position for all of your buildings (example the 'banners!)."},  {
-      "question": "What is Error 1010?",
-      "answer": "This is 'Building Overlap'. Effectively there are buildings that aren't or cannot be moved out of the way of buildings in the layout you're trying to use. The most common reason for this is junk, but could also be due to the layout not having a position for all of your buildings (example the 'banners!)."
+      "question": "What is Error 2420?",
+      "answer": "Error 2420 appears if you have junk on your PVP base, or when buildings overlap when you try to update your war base layout. “But, but, I updated my war base, not my PVP base?!?!”, I hear you cry. Yup. Just one of those SWC things that doesn’t make sense. To fix it, you need to have a clear up on your base.  "
     }]}
