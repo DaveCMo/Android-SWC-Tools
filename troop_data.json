@@ -1,6 +1,6 @@
 {
   "name": "troop_data",
-  "version": 4,
+  "version": 5,
   "level": true,
   "notes": [
     "New structure with min/max versions", "Fixed Y/A wing look up errors.", "Added ranors"
@@ -210,6 +210,22 @@
       "game_name": "troopMercenaryRebelTognath",
       "ui_name": "Tognath Marksman",
       "faction": "rebel",
+      "cap": "7",
+      "minLevel": 0,
+      "maxLevel": 11
+    },
+     {
+      "game_name": "troopRebelTognath",
+      "ui_name": "Tognath Marksman",
+      "faction": "rebel",
+      "cap": "7",
+      "minLevel": 0,
+      "maxLevel": 11
+    },
+         {
+      "game_name": "troopEmpireTognath",
+      "ui_name": "Tognath Marksman",
+      "faction": "empire",
       "cap": "7",
       "minLevel": 0,
       "maxLevel": 11
