@@ -1,6 +1,6 @@
 {
   "name": "troop_data",
-  "version": 6,
+  "version": 7,
   "level": true,
   "notes": [
     "New structure with min/max versions", "Fixed Y/A wing look up errors.", "Added ranors"
@@ -375,7 +375,7 @@
       "maxLevel": 11
     },
     {
-      "game_name": "troopMercenaryRebelGoldenMileCreature",
+      "game_name": "troopRebelGoldenMileCreature",
       "ui_name": "Fathier Rider",
       "faction": "rebel",
       "cap": "25",
@@ -711,7 +711,7 @@
       "maxLevel": 11
     },
     {
-      "game_name": "troopMercenaryEmpireGoldenMileCreature",
+      "game_name": "troopEmpireGoldenMileCreature",
       "ui_name": "Fathier Rider",
       "faction": "empire",
       "cap": "25",
