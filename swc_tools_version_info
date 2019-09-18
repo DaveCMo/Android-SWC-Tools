@@ -1,8 +1,8 @@
 {
   "app_update": {
-    "latestVersion": 128,
-    "releaseLabel": "v4.0.0",
-    "release_url": "https://github.com/DaveCMo/Android-SWC-Tools/releases/tag/v4.0.0-b128"
+    "latestVersion": 151,
+    "releaseLabel": "v4.1.0",
+    "release_url": "https://github.com/DaveCMo/Android-SWC-Tools/releases/latest"
   },
   "data_update": {
     "tables": [
