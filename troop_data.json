@@ -1419,7 +1419,7 @@
 {
       "cap": "10",
       "faction": "rebel",
-      "game_name": "troopMercenaryRebelBetaToop",
+      "game_name": "troopMercenaryRebelBetaTroop",
       "maxLevel": 11,
       "minLevel": 0,
       "ui_name": "Orbak Marauder"
@@ -1427,7 +1427,7 @@
     {
       "cap": "10",
       "faction": "empire",
-      "game_name": "troopMercenaryEmpireBetaToop",
+      "game_name": "troopMercenaryEmpireBetaTroop",
       "maxLevel": 11,
       "minLevel": 0,
       "ui_name": "Orbak Marauder"
@@ -1438,5 +1438,5 @@
   "notes": [
     "Added Orbak Marauder"
   ],
-  "version": 11
+  "version": 12
 }
