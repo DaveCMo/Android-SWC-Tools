@@ -19,7 +19,7 @@
       {
         "name": "troops",
         "url": "https://raw.githubusercontent.com/DaveCMo/Android-SWC-Tools/master/troop_data.json",
-        "latestVersion": 12
+        "latestVersion": 13
       },
       {
         "name": "swc_http_headers",
