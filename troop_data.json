@@ -1,1442 +1,1459 @@
 {
-  "data": [
-    {
-      "cap": "4",
-      "faction": "rebel",
-      "game_name": "troopRebelHeavyStormDeath",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Undead Heavy"
-    },
-    {
-      "cap": "1",
-      "faction": "rebel",
-      "game_name": "troopRebelStormDeath",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Undead Storm"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "trooptroopEmpireHeavyStormDeath",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Undead Heavy"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "troopHeavyStorm",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Heavy Stormtrooper"
-    },
-    {
-      "cap": "20",
-      "faction": "rebel",
-      "game_name": "troopRebelRageRancorCreature",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rage Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "rebel",
-      "game_name": "troopEmpireRageRancorCreature",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rage Rancor"
-    },
-    {
-      "cap": "5",
-      "faction": "rebel",
-      "game_name": "troopHeavyRebel",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Heavy Soldier"
-    },
-    {
-      "cap": "1",
-      "faction": "rebel",
-      "game_name": "troopSoldier",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rebel Soldier"
-    },
-    {
-      "cap": "5",
-      "faction": "rebel",
-      "game_name": "troopWookie",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Wookie"
-    },
-    {
-      "cap": "9",
-      "faction": "rebel",
-      "game_name": "troopAAT1",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "AAT Hover Tank"
-    },
-    {
-      "cap": "7",
-      "faction": "rebel",
-      "game_name": "troopT2BTank",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "T2B Tank"
-    },
-    {
-      "cap": "10",
-      "faction": "rebel",
-      "game_name": "troopATAP",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "ATAP"
-    },
-    {
-      "cap": "20",
-      "faction": "rebel",
-      "game_name": "troopJuggernaut",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Juggernaut"
-    },
-    {
-      "cap": "2",
-      "faction": "rebel",
-      "game_name": "troopPathfinder",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Pathfinder"
-    },
-    {
-      "cap": "1",
-      "faction": "rebel",
-      "game_name": "troopHeroHanSolo",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Han Solo"
-    },
-    {
-      "cap": "2",
-      "faction": "rebel",
-      "game_name": "troopBantha",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Bantha"
-    },
-    {
-      "cap": "1",
-      "faction": "rebel",
-      "game_name": "troopHeroChewbacca",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Chewbacca"
-    },
-    {
-      "cap": "5",
-      "faction": "rebel",
-      "game_name": "troopRebelSpeeder",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Speeder Bike"
-    },
-    {
-      "cap": "1",
-      "faction": "rebel",
-      "game_name": "troopHeroR2D2",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "R2D2"
-    },
-    {
-      "cap": "5",
-      "faction": "rebel",
-      "game_name": "troopMedic",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Medic Droid"
-    },
-    {
-      "cap": "1",
-      "faction": "rebel",
-      "game_name": "troopHeroLeia",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Leia"
-    },
-    {
-      "cap": "1",
-      "faction": "rebel",
-      "game_name": "troopChampionRebelDroideka",
-      "maxLevel": 50,
-      "minLevel": 0,
-      "ui_name": "Droideka Sentinel"
-    },
-    {
-      "cap": "3",
-      "faction": "rebel",
-      "game_name": "troopIthorianInfiltrator",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Ithorian Infiltrator"
-    },
-    {
-      "cap": "8",
-      "faction": "rebel",
-      "game_name": "troopMarksman",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Sniper"
-    },
-    {
-      "cap": "7",
-      "faction": "rebel",
-      "game_name": "troopHailfire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Hailfire Droid"
-    },
-    {
-      "cap": "12",
-      "faction": "rebel",
-      "game_name": "troopMercenaryRebelBrute",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Dowutin Hunter"
-    },
-    {
-      "cap": "7",
-      "faction": "rebel",
-      "game_name": "troopDesertSkiff",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Skiff"
-    },
-    {
-      "cap": "7",
-      "faction": "rebel",
-      "game_name": "troopMercenaryRebelTognath",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Tognath Marksman"
-    },
-    {
-      "cap": "7",
-      "faction": "rebel",
-      "game_name": "troopRebelTognath",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Tognath Marksman"
-    },
-    {
-      "cap": "7",
-      "faction": "empire",
-      "game_name": "troopEmpireTognath",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Tognath Marksman"
-    },
-    {
-      "cap": "6",
-      "faction": "rebel",
-      "game_name": "troopMercenaryRebelGamorreanWarrior",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Gamorrean Warrior"
-    },
-    {
-      "cap": "6",
-      "faction": "rebel",
-      "game_name": "troopIakaruWarrior",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Iakaru Warrior"
-    },
-    {
-      "cap": "1",
-      "faction": "rebel",
-      "game_name": "troopHeroLukeSkywalker",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Luke Skywalker"
-    },
-    {
-      "cap": "3",
-      "faction": "rebel",
-      "game_name": "troopVanguard",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Vanguard"
-    },
-    {
-      "cap": "7",
-      "faction": "rebel",
-      "game_name": "troopRebelJetpackTrooper",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Jetpack Trooper"
-    },
-    {
-      "cap": "4",
-      "faction": "rebel",
-      "game_name": "troopMercenaryRebelTwilekIncinerator",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Twilek Incinerator"
-    },
-    {
-      "cap": "5",
-      "faction": "rebel",
-      "game_name": "troopTreadwell",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "WED Treadwell Droid"
-    },
-    {
-      "cap": "4",
-      "faction": "rebel",
-      "game_name": "troopMercenaryBigMouthAlien",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Drabatan Saboteur"
-    },
-    {
-      "cap": "1",
-      "faction": "rebel",
-      "game_name": "troopHeroRebelJohhar",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Johhar Kessen"
-    },
-    {
-      "cap": "20",
-      "faction": "rebel",
-      "game_name": "troopATTE",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "ATTE"
-    },
-    {
-      "cap": "1",
-      "faction": "rebel",
-      "game_name": "troopChampionRebelHeavyDroideka",
-      "maxLevel": 50,
-      "minLevel": 0,
-      "ui_name": "Droideka Oppressor"
-    },
-    {
-      "cap": "7",
-      "faction": "rebel",
-      "game_name": "troopMercenaryRebelRider",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Luggabeast"
-    },
-    {
-      "cap": "5",
-      "faction": "rebel",
-      "game_name": "troopATRT",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "ATRT"
-    },
-    {
-      "cap": "1",
-      "faction": "rebel",
-      "game_name": "troopHeroATTE",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "eATTE"
-    },
-    {
-      "cap": "1",
-      "faction": "rebel",
-      "game_name": "troopHeroRebelSpiderDroid",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Modified SDK4"
-    },
-    {
-      "cap": "6",
-      "faction": "rebel",
-      "game_name": "troopPolarShip",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "V4XD Ski Speeder"
-    },
-    {
-      "cap": "15",
-      "faction": "rebel",
-      "game_name": "troopRebelGoldenMileCreature",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Fathier Rider"
-    },
-    {
-      "cap": "4",
-      "faction": "rebel",
-      "game_name": "troopFurCoat",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Bufopel Protector"
-    },
-    {
-      "cap": "3",
-      "faction": "rebel",
-      "game_name": "troopXWingPilot",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Starfighter Pilot"
-    },
-    {
-      "cap": "4",
-      "faction": "rebel",
-      "game_name": "troopRebelDemoDroid",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Demolition Droid"
-    },
-    {
-      "cap": "1",
-      "faction": "empire",
-      "game_name": "troopStorm",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Stormtrooper"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "troopDark",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Darktrooper"
-    },
-    {
-      "cap": "1",
-      "faction": "empire",
-      "game_name": "troopScout",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Scout Trooper"
-    },
-    {
-      "cap": "6",
-      "faction": "empire",
-      "game_name": "troopEmpireSpeeder",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Speeder Bike"
-    },
-    {
-      "cap": "10",
-      "faction": "empire",
-      "game_name": "troopATST",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "ATST"
-    },
-    {
-      "cap": "10",
-      "faction": "empire",
-      "game_name": "troop2MTank",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "2MTank"
-    },
-    {
-      "cap": "1",
-      "faction": "empire",
-      "game_name": "troopHeroATST",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Veteran ATST"
-    },
-    {
-      "cap": "15",
-      "faction": "empire",
-      "game_name": "troopATMP",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "ATMP"
-    },
-    {
-      "cap": "1",
-      "faction": "empire",
-      "game_name": "troopHeroCrimsonGuard",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Crimson Guard"
-    },
-    {
-      "cap": "3",
-      "faction": "empire",
-      "game_name": "troopDewback",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Dewbacktrooper"
-    },
-    {
-      "cap": "1",
-      "faction": "empire",
-      "game_name": "troopHeroATMP",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "AT-MP Mark III"
-    },
-    {
-      "cap": "1",
-      "faction": "empire",
-      "game_name": "troopHeroATAT",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Elite ATAT"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "troopTechnician",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Repair Droid"
-    },
-    {
-      "cap": "30",
-      "faction": "empire",
-      "game_name": "troopATAT",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "ATAT"
-    },
-    {
-      "cap": "3",
-      "faction": "empire",
-      "game_name": "troopShock",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Shocktrooper"
-    },
-    {
-      "cap": "7",
-      "faction": "empire",
-      "game_name": "troopSniper",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Sniper"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "troopProbeDroid",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Probe Droid"
-    },
-    {
-      "cap": "5",
-      "faction": "empire",
-      "game_name": "troopMTV7",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "MTV7"
-    },
-    {
-      "cap": "12",
-      "faction": "empire",
-      "game_name": "troopMHC",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "MHC"
-    },
-    {
-      "cap": "16",
-      "faction": "empire",
-      "game_name": "troopATDP",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "ATDP"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "troopChampionEmpireDroideka",
-      "maxLevel": 50,
-      "minLevel": 0,
-      "ui_name": "Droideka Sentinel"
-    },
-    {
-      "cap": "1",
-      "faction": "empire",
-      "game_name": "troopHeroEmpireJohhar",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Johhar Kessen"
-    },
-    {
-      "cap": "1",
-      "faction": "empire",
-      "game_name": "troopHeroDarthVader",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Darth Vader"
-    },
-    {
-      "cap": "6",
-      "faction": "empire",
-      "game_name": "troopMercenaryEmpireGamorreanWarrior",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Gamorrean Warrior"
-    },
-    {
-      "cap": "7",
-      "faction": "empire",
-      "game_name": "troopEmpireJumptrooper",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Jump Trooper"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "troopChampionEmpireHeavyDroideka",
-      "maxLevel": 50,
-      "minLevel": 0,
-      "ui_name": "Droideka Oppressor"
-    },
-    {
-      "cap": "7",
-      "faction": "empire",
-      "game_name": "troopMercenaryEmpireRider",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Luggabeast"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "troopMercenaryEmpireTwilekIncinerator",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Twilek Incinerator"
-    },
-    {
-      "cap": "12",
-      "faction": "empire",
-      "game_name": "troopMercenarympireBrute",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Dowutin Hunter"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "troopMercenarySecurityDroid",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Security Droid"
-    },
-    {
-      "cap": "3",
-      "faction": "empire",
-      "game_name": "troopKubazInvader",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Kubaz Invader"
-    },
-    {
-      "cap": "7",
-      "faction": "empire",
-      "game_name": "troopEmpireTognath",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Tognath Marksman"
-    },
-    {
-      "cap": "6",
-      "faction": "empire",
-      "game_name": "troopIG86Droid",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "IG86"
-    },
-    {
-      "cap": "5",
-      "faction": "empire",
-      "game_name": "troopR5Medic",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "R5 Medic Droid"
-    },
-    {
-      "cap": "1",
-      "faction": "empire",
-      "game_name": "troopHeroDeathTrooper",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Death Trooper"
-    },
-    {
-      "cap": "3",
-      "faction": "empire",
-      "game_name": "troopTiePilot",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Tie Pilot"
-    },
-    {
-      "cap": "1",
-      "faction": "empire",
-      "game_name": "troopHeroEmpireSpiderDroid",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Spider Droid"
-    },
-    {
-      "cap": "6",
-      "faction": "empire",
-      "game_name": "troop614AVA",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "614AVA"
-    },
-    {
-      "cap": "15",
-      "faction": "empire",
-      "game_name": "troopEmpireGoldenMileCreature",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Fathier Rider"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "troopApeMan",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Ongidae Oppressor"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "troopEmpireDemoDroid",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Demolition Droid"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "specialAttackTieDefender",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Tie Defender"
-    },
-    {
-      "cap": "3",
-      "faction": "empire",
-      "game_name": "specialAttackTieVT495",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "VT-49 Decimator"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "specialAttackEmpireSupplyDrop",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "T-5 Deliverance"
-    },
-    {
-      "cap": "16",
-      "faction": "empire",
-      "game_name": "troopEmpireChicken",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "AT-DT Walker"
-    },
-    {
-      "cap": "1",
-      "faction": "empire",
-      "game_name": "troopEmpireScoutDeath",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Undead Scout"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "trooppromoRancorEmpire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "troopSeizedJuggernaut",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Seized Juggernaut"
-    },
-    {
-      "cap": "9",
-      "faction": "empire",
-      "game_name": "troopSeizedAAT1",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Seized AAT1"
-    },
-    {
-      "cap": "5",
-      "faction": "empire",
-      "game_name": "troopSeizedMedic",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Seized Medic"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "troopSeizedATTE",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Seized ATTE"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "troopEmpireHunterRancor",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Hunter Rancor"
-    },
-    {
-      "cap": "50",
-      "faction": "empire",
-      "game_name": "troopEmpireRageRancor",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rage Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "troopEmpireShadowRancor",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Shadow Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "troopKraytDragon",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Krayt Dragon"
-    },
-    {
-      "cap": "15",
-      "faction": "empire",
-      "game_name": "troopChampionEmpireHeavyDroidekaSample",
-      "maxLevel": 50,
-      "minLevel": 0,
-      "ui_name": "Droideka Oppressor"
-    },
-    {
-      "cap": "12",
-      "faction": "empire",
-      "game_name": "troopChampionEmpireDroidekaSample",
-      "maxLevel": 50,
-      "minLevel": 0,
-      "ui_name": "Droideka Sentinel"
-    },
-    {
-      "cap": "7",
-      "faction": "empire",
-      "game_name": "troopSeizedHailfire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Seized Rebel Hailfire Droid"
-    },
-    {
-      "cap": "10",
-      "faction": "empire",
-      "game_name": "specialAttackTieAdvanced",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Tie Advanced"
-    },
-    {
-      "cap": "3",
-      "faction": "empire",
-      "game_name": "specialAttackHWK290",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Hwk 290"
-    },
-    {
-      "cap": "3",
-      "faction": "empire",
-      "game_name": "specialAttackTieBomber",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Tie Bomber"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "specialAttackTieFighter",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Tie Fighter"
-    },
-    {
-      "cap": "7",
-      "faction": "empire",
-      "game_name": "specialAttackImperialDropship",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Imperial Dropship Transport"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "specialAttackAtmosMig",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Tie Striker"
-    },
-    {
-      "cap": "10",
-      "faction": "empire",
-      "game_name": "specialAttackSeizedAwing",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Seized Awing"
-    },
-    {
-      "cap": "12",
-      "faction": "empire",
-      "game_name": "specialAttackEmpireHauler",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "AT-Hauler"
-    },
-    {
-      "cap": "13",
-      "faction": "empire",
-      "game_name": "troopMercenaryEmpireP006Droid",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "A-LT Turret Slicer"
-    },
-    {
-      "cap": "50",
-      "faction": "rebel",
-      "game_name": "troopRebelRageRancor",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rage Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "rebel",
-      "game_name": "trooppromoRancorRebel",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "rebel",
-      "game_name": "troopRebelHunterRancor",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Hunter Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "rebel",
-      "game_name": "troopRebelShadowRancor",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Shadow Rancor"
-    },
-    {
-      "cap": "9",
-      "faction": "rebel",
-      "game_name": "troopRebelHovertankSample",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Stolen TX225"
-    },
-    {
-      "cap": "10",
-      "faction": "rebel",
-      "game_name": "troopStolenATST",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Stolen ATST"
-    },
-    {
-      "cap": "30",
-      "faction": "rebel",
-      "game_name": "troopStolenATAT",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Stolen ATAT"
-    },
-    {
-      "cap": "16",
-      "faction": "rebel",
-      "game_name": "troopStolenATDP",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Stolen AT-DP Walker"
-    },
-    {
-      "cap": "8",
-      "faction": "rebel",
-      "game_name": "troopSullustanSample",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Sullustan Sample"
-    },
-    {
-      "cap": "2",
-      "faction": "rebel",
-      "game_name": "specialAttackZ95",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Z95"
-    },
-    {
-      "cap": "4",
-      "faction": "rebel",
-      "game_name": "specialAttackXWing",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Xwing"
-    },
-    {
-      "cap": "4",
-      "faction": "rebel",
-      "game_name": "specialAttackFangFighter",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Fang"
-    },
-    {
-      "cap": "3",
-      "faction": "rebel",
-      "game_name": "specialAttackYWing",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Y Wing"
-    },
-    {
-      "cap": "10",
-      "faction": "rebel",
-      "game_name": "specialAttackAWing",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Awing"
-    },
-    {
-      "cap": "3",
-      "faction": "rebel",
-      "game_name": "specialAttackHWK290",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Hwk 290"
-    },
-    {
-      "cap": "7",
-      "faction": "rebel",
-      "game_name": "specialAttackCloneWarsGunship",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Low Altitude Assault Transport"
-    },
-    {
-      "cap": "4",
-      "faction": "rebel",
-      "game_name": "specialAttackRebelSupplyDrop",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "E-50 Landseer"
-    },
-    {
-      "cap": "10",
-      "faction": "rebel",
-      "game_name": "specialAttackStolenTieAdvanced",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Stolen Tie Advanced"
-    },
-    {
-      "cap": "4",
-      "faction": "rebel",
-      "game_name": "specialAttackBWing",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Bwing"
-    },
-    {
-      "cap": "16",
-      "faction": "rebel",
-      "game_name": "troopRebel Chicken",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Stolen AT-DT Walker"
-    },
-    {
-      "cap": "20",
-      "faction": "rebel",
-      "game_name": "troopKraytDragon",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Krayt Dragon"
-    },
-    {
-      "cap": "12",
-      "faction": "rebel",
-      "game_name": "troopChampionRebelDroidekaSample",
-      "maxLevel": 50,
-      "minLevel": 0,
-      "ui_name": "Droideka Sentinel"
-    },
-    {
-      "cap": "15",
-      "faction": "rebel",
-      "game_name": "troopChampionRebelHeavyDroidekaSample",
-      "maxLevel": 50,
-      "minLevel": 0,
-      "ui_name": "Droideka Oppressor"
-    },
-    {
-      "cap": "13",
-      "faction": "rebel",
-      "game_name": "troopMercenaryRebelP006Droid",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "A-LT Turret Slicer"
-    },
-    {
-      "cap": "10",
-      "faction": "empire",
-      "game_name": "troopEmpireHovertankSample",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "TX-225"
-    },
-    {
-      "cap": "12",
-      "faction": "rebel",
-      "game_name": "troopRebelHauler",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Salvaged AT-Hauler"
-    },
-    {
-      "cap": "7",
-      "faction": "empire",
-      "game_name": "troopRodianSample",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rodian Sample"
-    },
-    {
-      "cap": "3",
-      "faction": "empire",
-      "game_name": "specialAttackVT49",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "VT-49 Decimator"
-    },
-    {
-      "cap": "4",
-      "faction": "rebel",
-      "game_name": "specialAttackUWingSample",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Uwing"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "specialAttackBubbaTieSample",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Tie Brute"
-    },
-    {
-      "cap": "2",
-      "faction": "empire",
-      "game_name": "specialAttackTieInterceptor",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Tie Interceptor"
-    },
-    {
-      "cap": "10",
-      "faction": "empire",
-      "game_name": "troopATSTHalfSkinSample",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Enhanced AT-ST Walker"
-    },
-    {
-      "cap": "7",
-      "faction": "rebel",
-      "game_name": "troopT2BTankHalfSkinSample",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Enhanced T2-B Repulsor Tank"
-    },
-    {
-      "cap": "12",
-      "faction": "rebel",
-      "game_name": "troopRebelTransportVehicle",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Wookie Wagon"
-    },
-    {
-      "cap": "12",
-      "faction": "empire",
-      "game_name": "troopEmpireTransportVehicle",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Imperial Troop Transport"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "trooptroopPromoRancor8Empire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "trooptroopPromoRancor9Empire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "trooptroopPromoRancor10Empire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "trooptroopPromoRancor11Empire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "trooptroopPromoRancor7Empire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "trooptroopPromoRancor6Empire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "trooptroopPromoRancor5Empire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "trooptroopPromoRancor4Empire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "trooptroopPromoRancor3Empire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "trooptroopPromoRancor2Empire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "trooptroopPromoRancor1Empire",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "troopEmpireShadowRancorCreature",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Shadow Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "rebel",
-      "game_name": "troopRebelShadowRancorCreature",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Shadow Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "troopEmpireHunterRancorCreature",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Hunter Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "rebel",
-      "game_name": "troopRebelHunterRancorCreature",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Hunter Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "rebel",
-      "game_name": "troopRebelRancorCreature",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "troopEmpireRancorCreature",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Rancor"
-    },
-    {
-      "cap": "12",
-      "faction": "rebel",
-      "game_name": "troopRebelAlphaVehicle",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Salvaged Multi-Troop Transport"
-    },
-    {
-      "cap": "12",
-      "faction": "empire",
-      "game_name": "troopEmpireAlphaVehicle",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Salvaged Multi-Troop Transport"
-    },
-    {
-      "cap": "4",
-      "faction": "empire",
-      "game_name": "troopSecurityDroid",
-      "maxLevel": 5,
-      "minLevel": 0,
-      "ui_name": "Security Droid"
-    },
-    {
-      "cap": "4",
-      "faction": "rebel",
-      "game_name": "troopBigMouthAlien",
-      "maxLevel": 5,
-      "minLevel": 0,
-      "ui_name": "Drabatan Saboteur"
-    },
-    {
-      "cap": "20",
-      "faction": "rebel",
-      "game_name": "troopRebelHunterRancorCreature",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Hunter Rancor"
-    },
-    {
-      "cap": "20",
-      "faction": "empire",
-      "game_name": "troopEmpireHunterRancorCreature",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Hunter Rancor"
-    },
-    {
-      "cap": "8",
-      "faction": "empire",
-      "game_name": "troopMercenaryEmpireBrute",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Dowutin Hunter"
-    },
-    {
-      "cap": "8",
-      "faction": "rebel",
-      "game_name": "troopMercenaryRebelBrute",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Dowutin Hunter"
-    },
-{
-      "cap": "10",
-      "faction": "rebel",
-      "game_name": "troopMercenaryRebelBetaTroop",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Orbak Marauder"
-    }   ,
-    {
-      "cap": "10",
-      "faction": "empire",
-      "game_name": "troopMercenaryEmpireBetaTroop",
-      "maxLevel": 11,
-      "minLevel": 0,
-      "ui_name": "Orbak Marauder"
-    }    
-  ],  
-  "level": true,
-  "name": "troop_data",
-  "notes": [
-    "Added Orbak Marauder"
-  ],
-  "version": 12
+	"data": [
+		{
+			"cap": "4",
+			"faction": "rebel",
+			"game_name": "troopRebelHeavyStormDeath",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Undead Heavy"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopRebelStormDeath",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Undead Storm"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "trooptroopEmpireHeavyStormDeath",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Undead Heavy"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "troopHeavyStorm",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Heavy Stormtrooper"
+		},
+		{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "troopRebelRageRancorCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rage Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "troopEmpireRageRancorCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rage Rancor"
+		},
+		{
+			"cap": "5",
+			"faction": "rebel",
+			"game_name": "troopHeavyRebel",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Heavy Soldier"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopSoldier",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rebel Soldier"
+		},
+		{
+			"cap": "5",
+			"faction": "rebel",
+			"game_name": "troopWookie",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Wookie"
+		},
+		{
+			"cap": "9",
+			"faction": "rebel",
+			"game_name": "troopAAT1",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "AAT Hover Tank"
+		},
+		{
+			"cap": "7",
+			"faction": "rebel",
+			"game_name": "troopT2BTank",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "T2B Tank"
+		},
+		{
+			"cap": "10",
+			"faction": "rebel",
+			"game_name": "troopATAP",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "ATAP"
+		},
+		{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "troopJuggernaut",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Juggernaut"
+		},
+		{
+			"cap": "2",
+			"faction": "rebel",
+			"game_name": "troopPathfinder",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Pathfinder"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopHeroHanSolo",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Han Solo"
+		},
+		{
+			"cap": "2",
+			"faction": "rebel",
+			"game_name": "troopBantha",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Bantha"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopHeroChewbacca",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Chewbacca"
+		},
+		{
+			"cap": "5",
+			"faction": "rebel",
+			"game_name": "troopRebelSpeeder",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Speeder Bike"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopHeroR2D2",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "R2D2"
+		},
+		{
+			"cap": "5",
+			"faction": "rebel",
+			"game_name": "troopMedic",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Medic Droid"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopHeroLeia",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Leia"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopChampionRebelDroideka",
+			"maxLevel": 50,
+			"minLevel": 0,
+			"ui_name": "Droideka Sentinel"
+		},
+		{
+			"cap": "3",
+			"faction": "rebel",
+			"game_name": "troopIthorianInfiltrator",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Ithorian Infiltrator"
+		},
+		{
+			"cap": "8",
+			"faction": "rebel",
+			"game_name": "troopMarksman",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Sniper"
+		},
+		{
+			"cap": "7",
+			"faction": "rebel",
+			"game_name": "troopHailfire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Hailfire Droid"
+		},
+		{
+			"cap": "12",
+			"faction": "rebel",
+			"game_name": "troopMercenaryRebelBrute",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Dowutin Hunter"
+		},
+		{
+			"cap": "7",
+			"faction": "rebel",
+			"game_name": "troopDesertSkiff",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Skiff"
+		},
+		{
+			"cap": "7",
+			"faction": "rebel",
+			"game_name": "troopMercenaryRebelTognath",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Tognath Marksman"
+		},
+		{
+			"cap": "7",
+			"faction": "rebel",
+			"game_name": "troopRebelTognath",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Tognath Marksman"
+		},
+		{
+			"cap": "7",
+			"faction": "empire",
+			"game_name": "troopEmpireTognath",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Tognath Marksman"
+		},
+		{
+			"cap": "6",
+			"faction": "rebel",
+			"game_name": "troopMercenaryRebelGamorreanWarrior",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Gamorrean Warrior"
+		},
+		{
+			"cap": "6",
+			"faction": "rebel",
+			"game_name": "troopIakaruWarrior",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Iakaru Warrior"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopHeroLukeSkywalker",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Luke Skywalker"
+		},
+		{
+			"cap": "3",
+			"faction": "rebel",
+			"game_name": "troopVanguard",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Vanguard"
+		},
+		{
+			"cap": "7",
+			"faction": "rebel",
+			"game_name": "troopRebelJetpackTrooper",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Jetpack Trooper"
+		},
+		{
+			"cap": "4",
+			"faction": "rebel",
+			"game_name": "troopMercenaryRebelTwilekIncinerator",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Twilek Incinerator"
+		},
+		{
+			"cap": "5",
+			"faction": "rebel",
+			"game_name": "troopTreadwell",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "WED Treadwell Droid"
+		},
+		{
+			"cap": "4",
+			"faction": "rebel",
+			"game_name": "troopMercenaryBigMouthAlien",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Drabatan Saboteur"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopHeroRebelJohhar",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Johhar Kessen"
+		},
+		{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "troopATTE",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "ATTE"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopChampionRebelHeavyDroideka",
+			"maxLevel": 50,
+			"minLevel": 0,
+			"ui_name": "Droideka Oppressor"
+		},
+		{
+			"cap": "7",
+			"faction": "rebel",
+			"game_name": "troopMercenaryRebelRider",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Luggabeast"
+		},
+		{
+			"cap": "5",
+			"faction": "rebel",
+			"game_name": "troopATRT",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "ATRT"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopHeroATTE",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "eATTE"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopHeroRebelSpiderDroid",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Modified SDK4"
+		},
+		{
+			"cap": "6",
+			"faction": "rebel",
+			"game_name": "troopPolarShip",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "V4XD Ski Speeder"
+		},
+		{
+			"cap": "15",
+			"faction": "rebel",
+			"game_name": "troopRebelGoldenMileCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Fathier Rider"
+		},
+		{
+			"cap": "4",
+			"faction": "rebel",
+			"game_name": "troopFurCoat",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Bufopel Protector"
+		},
+		{
+			"cap": "3",
+			"faction": "rebel",
+			"game_name": "troopXWingPilot",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Starfighter Pilot"
+		},
+		{
+			"cap": "4",
+			"faction": "rebel",
+			"game_name": "troopRebelDemoDroid",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Demolition Droid"
+		},
+		{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopStorm",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Stormtrooper"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "troopDark",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Darktrooper"
+		},
+		{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopScout",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Scout Trooper"
+		},
+		{
+			"cap": "6",
+			"faction": "empire",
+			"game_name": "troopEmpireSpeeder",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Speeder Bike"
+		},
+		{
+			"cap": "10",
+			"faction": "empire",
+			"game_name": "troopATST",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "ATST"
+		},
+		{
+			"cap": "10",
+			"faction": "empire",
+			"game_name": "troop2MTank",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "2MTank"
+		},
+		{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopHeroATST",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Veteran ATST"
+		},
+		{
+			"cap": "15",
+			"faction": "empire",
+			"game_name": "troopATMP",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "ATMP"
+		},
+		{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopHeroCrimsonGuard",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Crimson Guard"
+		},
+		{
+			"cap": "3",
+			"faction": "empire",
+			"game_name": "troopDewback",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Dewbacktrooper"
+		},
+		{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopHeroATMP",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "AT-MP Mark III"
+		},
+		{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopHeroATAT",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Elite ATAT"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "troopTechnician",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Repair Droid"
+		},
+		{
+			"cap": "30",
+			"faction": "empire",
+			"game_name": "troopATAT",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "ATAT"
+		},
+		{
+			"cap": "3",
+			"faction": "empire",
+			"game_name": "troopShock",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Shocktrooper"
+		},
+		{
+			"cap": "7",
+			"faction": "empire",
+			"game_name": "troopSniper",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Sniper"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "troopProbeDroid",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Probe Droid"
+		},
+		{
+			"cap": "5",
+			"faction": "empire",
+			"game_name": "troopMTV7",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "MTV7"
+		},
+		{
+			"cap": "12",
+			"faction": "empire",
+			"game_name": "troopMHC",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "MHC"
+		},
+		{
+			"cap": "16",
+			"faction": "empire",
+			"game_name": "troopATDP",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "ATDP"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "troopChampionEmpireDroideka",
+			"maxLevel": 50,
+			"minLevel": 0,
+			"ui_name": "Droideka Sentinel"
+		},
+		{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopHeroEmpireJohhar",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Johhar Kessen"
+		},
+		{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopHeroDarthVader",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Darth Vader"
+		},
+		{
+			"cap": "6",
+			"faction": "empire",
+			"game_name": "troopMercenaryEmpireGamorreanWarrior",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Gamorrean Warrior"
+		},
+		{
+			"cap": "7",
+			"faction": "empire",
+			"game_name": "troopEmpireJumptrooper",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Jump Trooper"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "troopChampionEmpireHeavyDroideka",
+			"maxLevel": 50,
+			"minLevel": 0,
+			"ui_name": "Droideka Oppressor"
+		},
+		{
+			"cap": "7",
+			"faction": "empire",
+			"game_name": "troopMercenaryEmpireRider",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Luggabeast"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "troopMercenaryEmpireTwilekIncinerator",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Twilek Incinerator"
+		},
+		{
+			"cap": "12",
+			"faction": "empire",
+			"game_name": "troopMercenarympireBrute",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Dowutin Hunter"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "troopMercenarySecurityDroid",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Security Droid"
+		},
+		{
+			"cap": "3",
+			"faction": "empire",
+			"game_name": "troopKubazInvader",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Kubaz Invader"
+		},
+		{
+			"cap": "7",
+			"faction": "empire",
+			"game_name": "troopEmpireTognath",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Tognath Marksman"
+		},
+		{
+			"cap": "6",
+			"faction": "empire",
+			"game_name": "troopIG86Droid",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "IG86"
+		},
+		{
+			"cap": "5",
+			"faction": "empire",
+			"game_name": "troopR5Medic",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "R5 Medic Droid"
+		},
+		{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopHeroDeathTrooper",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Death Trooper"
+		},
+		{
+			"cap": "3",
+			"faction": "empire",
+			"game_name": "troopTiePilot",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Tie Pilot"
+		},
+		{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopHeroEmpireSpiderDroid",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Spider Droid"
+		},
+		{
+			"cap": "6",
+			"faction": "empire",
+			"game_name": "troop614AVA",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "614AVA"
+		},
+		{
+			"cap": "15",
+			"faction": "empire",
+			"game_name": "troopEmpireGoldenMileCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Fathier Rider"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "troopApeMan",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Ongidae Oppressor"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "troopEmpireDemoDroid",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Demolition Droid"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "specialAttackTieDefender",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Tie Defender"
+		},
+		{
+			"cap": "3",
+			"faction": "empire",
+			"game_name": "specialAttackTieVT495",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "VT-49 Decimator"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "specialAttackEmpireSupplyDrop",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "T-5 Deliverance"
+		},
+		{
+			"cap": "16",
+			"faction": "empire",
+			"game_name": "troopEmpireChicken",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "AT-DT Walker"
+		},
+		{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopEmpireScoutDeath",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Undead Scout"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "trooppromoRancorEmpire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "troopSeizedJuggernaut",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Seized Juggernaut"
+		},
+		{
+			"cap": "9",
+			"faction": "empire",
+			"game_name": "troopSeizedAAT1",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Seized AAT1"
+		},
+		{
+			"cap": "5",
+			"faction": "empire",
+			"game_name": "troopSeizedMedic",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Seized Medic"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "troopSeizedATTE",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Seized ATTE"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "troopEmpireHunterRancor",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Hunter Rancor"
+		},
+		{
+			"cap": "50",
+			"faction": "empire",
+			"game_name": "troopEmpireRageRancor",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rage Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "troopEmpireShadowRancor",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Shadow Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "troopKraytDragon",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Krayt Dragon"
+		},
+		{
+			"cap": "15",
+			"faction": "empire",
+			"game_name": "troopChampionEmpireHeavyDroidekaSample",
+			"maxLevel": 50,
+			"minLevel": 0,
+			"ui_name": "Droideka Oppressor"
+		},
+		{
+			"cap": "12",
+			"faction": "empire",
+			"game_name": "troopChampionEmpireDroidekaSample",
+			"maxLevel": 50,
+			"minLevel": 0,
+			"ui_name": "Droideka Sentinel"
+		},
+		{
+			"cap": "7",
+			"faction": "empire",
+			"game_name": "troopSeizedHailfire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Seized Rebel Hailfire Droid"
+		},
+		{
+			"cap": "10",
+			"faction": "empire",
+			"game_name": "specialAttackTieAdvanced",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Tie Advanced"
+		},
+		{
+			"cap": "3",
+			"faction": "empire",
+			"game_name": "specialAttackHWK290",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Hwk 290"
+		},
+		{
+			"cap": "3",
+			"faction": "empire",
+			"game_name": "specialAttackTieBomber",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Tie Bomber"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "specialAttackTieFighter",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Tie Fighter"
+		},
+		{
+			"cap": "7",
+			"faction": "empire",
+			"game_name": "specialAttackImperialDropship",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Imperial Dropship Transport"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "specialAttackAtmosMig",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Tie Striker"
+		},
+		{
+			"cap": "10",
+			"faction": "empire",
+			"game_name": "specialAttackSeizedAwing",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Seized Awing"
+		},
+		{
+			"cap": "12",
+			"faction": "empire",
+			"game_name": "specialAttackEmpireHauler",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "AT-Hauler"
+		},
+		{
+			"cap": "13",
+			"faction": "empire",
+			"game_name": "troopMercenaryEmpireP006Droid",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "A-LT Turret Slicer"
+		},
+		{
+			"cap": "50",
+			"faction": "rebel",
+			"game_name": "troopRebelRageRancor",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rage Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "trooppromoRancorRebel",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "troopRebelHunterRancor",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Hunter Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "troopRebelShadowRancor",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Shadow Rancor"
+		},
+		{
+			"cap": "9",
+			"faction": "rebel",
+			"game_name": "troopRebelHovertankSample",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Stolen TX225"
+		},
+		{
+			"cap": "10",
+			"faction": "rebel",
+			"game_name": "troopStolenATST",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Stolen ATST"
+		},
+		{
+			"cap": "30",
+			"faction": "rebel",
+			"game_name": "troopStolenATAT",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Stolen ATAT"
+		},
+		{
+			"cap": "16",
+			"faction": "rebel",
+			"game_name": "troopStolenATDP",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Stolen AT-DP Walker"
+		},
+		{
+			"cap": "8",
+			"faction": "rebel",
+			"game_name": "troopSullustanSample",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Sullustan Sample"
+		},
+		{
+			"cap": "2",
+			"faction": "rebel",
+			"game_name": "specialAttackZ95",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Z95"
+		},
+		{
+			"cap": "4",
+			"faction": "rebel",
+			"game_name": "specialAttackXWing",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Xwing"
+		},
+		{
+			"cap": "4",
+			"faction": "rebel",
+			"game_name": "specialAttackFangFighter",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Fang"
+		},
+		{
+			"cap": "3",
+			"faction": "rebel",
+			"game_name": "specialAttackYWing",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Y Wing"
+		},
+		{
+			"cap": "10",
+			"faction": "rebel",
+			"game_name": "specialAttackAWing",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Awing"
+		},
+		{
+			"cap": "3",
+			"faction": "rebel",
+			"game_name": "specialAttackHWK290",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Hwk 290"
+		},
+		{
+			"cap": "7",
+			"faction": "rebel",
+			"game_name": "specialAttackCloneWarsGunship",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Low Altitude Assault Transport"
+		},
+		{
+			"cap": "4",
+			"faction": "rebel",
+			"game_name": "specialAttackRebelSupplyDrop",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "E-50 Landseer"
+		},
+		{
+			"cap": "10",
+			"faction": "rebel",
+			"game_name": "specialAttackStolenTieAdvanced",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Stolen Tie Advanced"
+		},
+		{
+			"cap": "4",
+			"faction": "rebel",
+			"game_name": "specialAttackBWing",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Bwing"
+		},
+		{
+			"cap": "16",
+			"faction": "rebel",
+			"game_name": "troopRebel Chicken",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Stolen AT-DT Walker"
+		},
+		{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "troopKraytDragon",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Krayt Dragon"
+		},
+		{
+			"cap": "12",
+			"faction": "rebel",
+			"game_name": "troopChampionRebelDroidekaSample",
+			"maxLevel": 50,
+			"minLevel": 0,
+			"ui_name": "Droideka Sentinel"
+		},
+		{
+			"cap": "15",
+			"faction": "rebel",
+			"game_name": "troopChampionRebelHeavyDroidekaSample",
+			"maxLevel": 50,
+			"minLevel": 0,
+			"ui_name": "Droideka Oppressor"
+		},
+		{
+			"cap": "13",
+			"faction": "rebel",
+			"game_name": "troopMercenaryRebelP006Droid",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "A-LT Turret Slicer"
+		},
+		{
+			"cap": "10",
+			"faction": "empire",
+			"game_name": "troopEmpireHovertankSample",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "TX-225"
+		},
+		{
+			"cap": "12",
+			"faction": "rebel",
+			"game_name": "troopRebelHauler",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Salvaged AT-Hauler"
+		},
+		{
+			"cap": "7",
+			"faction": "empire",
+			"game_name": "troopRodianSample",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rodian Sample"
+		},
+		{
+			"cap": "3",
+			"faction": "empire",
+			"game_name": "specialAttackVT49",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "VT-49 Decimator"
+		},
+		{
+			"cap": "4",
+			"faction": "rebel",
+			"game_name": "specialAttackUWingSample",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Uwing"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "specialAttackBubbaTieSample",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Tie Brute"
+		},
+		{
+			"cap": "2",
+			"faction": "empire",
+			"game_name": "specialAttackTieInterceptor",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Tie Interceptor"
+		},
+		{
+			"cap": "10",
+			"faction": "empire",
+			"game_name": "troopATSTHalfSkinSample",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Enhanced AT-ST Walker"
+		},
+		{
+			"cap": "7",
+			"faction": "rebel",
+			"game_name": "troopT2BTankHalfSkinSample",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Enhanced T2-B Repulsor Tank"
+		},
+		{
+			"cap": "12",
+			"faction": "rebel",
+			"game_name": "troopRebelTransportVehicle",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Wookie Wagon"
+		},
+		{
+			"cap": "12",
+			"faction": "empire",
+			"game_name": "troopEmpireTransportVehicle",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Imperial Troop Transport"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "trooptroopPromoRancor8Empire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "trooptroopPromoRancor9Empire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "trooptroopPromoRancor10Empire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "trooptroopPromoRancor11Empire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "trooptroopPromoRancor7Empire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "trooptroopPromoRancor6Empire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "trooptroopPromoRancor5Empire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "trooptroopPromoRancor4Empire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "trooptroopPromoRancor3Empire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "trooptroopPromoRancor2Empire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "trooptroopPromoRancor1Empire",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "troopEmpireShadowRancorCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Shadow Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "troopRebelShadowRancorCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Shadow Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "troopEmpireHunterRancorCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Hunter Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "troopRebelHunterRancorCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Hunter Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "troopRebelRancorCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "troopEmpireRancorCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Rancor"
+		},
+		{
+			"cap": "12",
+			"faction": "rebel",
+			"game_name": "troopRebelAlphaVehicle",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Salvaged Multi-Troop Transport"
+		},
+		{
+			"cap": "12",
+			"faction": "empire",
+			"game_name": "troopEmpireAlphaVehicle",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Salvaged Multi-Troop Transport"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "troopSecurityDroid",
+			"maxLevel": 5,
+			"minLevel": 0,
+			"ui_name": "Security Droid"
+		},
+		{
+			"cap": "4",
+			"faction": "rebel",
+			"game_name": "troopBigMouthAlien",
+			"maxLevel": 5,
+			"minLevel": 0,
+			"ui_name": "Drabatan Saboteur"
+		},
+		{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "troopRebelHunterRancorCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Hunter Rancor"
+		},
+		{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "troopEmpireHunterRancorCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Hunter Rancor"
+		},
+		{
+			"cap": "8",
+			"faction": "empire",
+			"game_name": "troopMercenaryEmpireBrute",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Dowutin Hunter"
+		},
+		{
+			"cap": "8",
+			"faction": "rebel",
+			"game_name": "troopMercenaryRebelBrute",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Dowutin Hunter"
+		},
+		{
+			"cap": "10",
+			"faction": "rebel",
+			"game_name": "troopMercenaryRebelBetaTroop",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Orbak Marauder"
+		},
+		{
+			"cap": "10",
+			"faction": "empire",
+			"game_name": "troopMercenaryEmpireBetaTroop",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Orbak Marauder"
+		},
+			{
+			"cap": "10",
+			"faction": "rebel",
+			"game_name": "troopMercenaryRebelBetaTroopEqpSample",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Elite Orbak Marauder"
+		},
+		{
+			"cap": "10",
+			"faction": "empire",
+			"game_name": "troopMercenaryEmpireBetaTroopEqpSample",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Elite Orbak Marauder"
+		}
+		
+	],
+	"level": true,
+	"name": "troop_data",
+	"notes": [
+		"Added Elite Orbak Marauder"
+	],
+	"version": 13
 }
