@@ -38,7 +38,7 @@
 			"game_name": "troopRebelRageRancorCreature",
 			"maxLevel": 11,
 			"minLevel": 0,
-			"ui_name": "Rage Rancor"
+			"ui_name": "Rage Rancor (Strix)"
 		},
 		{
 			"cap": "20",
@@ -46,7 +46,7 @@
 			"game_name": "troopEmpireRageRancorCreature",
 			"maxLevel": 11,
 			"minLevel": 0,
-			"ui_name": "Rage Rancor"
+			"ui_name": "Rage Rancor Strix)"
 		},
 		{
 			"cap": "5",
@@ -1310,7 +1310,7 @@
 			"game_name": "troopEmpireShadowRancorCreature",
 			"maxLevel": 11,
 			"minLevel": 0,
-			"ui_name": "Shadow Rancor"
+			"ui_name": "Shadow Rancor (Strix)"
 		},
 		{
 			"cap": "20",
@@ -1318,7 +1318,7 @@
 			"game_name": "troopRebelShadowRancorCreature",
 			"maxLevel": 11,
 			"minLevel": 0,
-			"ui_name": "Shadow Rancor"
+			"ui_name": "Shadow Rancor (Strix)"
 		},
 		{
 			"cap": "20",
@@ -1326,7 +1326,7 @@
 			"game_name": "troopEmpireHunterRancorCreature",
 			"maxLevel": 11,
 			"minLevel": 0,
-			"ui_name": "Hunter Rancor"
+			"ui_name": "Hunter Rancor (Strix)"
 		},
 		{
 			"cap": "20",
@@ -1334,7 +1334,7 @@
 			"game_name": "troopRebelHunterRancorCreature",
 			"maxLevel": 11,
 			"minLevel": 0,
-			"ui_name": "Hunter Rancor"
+			"ui_name": "Hunter Rancor (Strix)"
 		},
 		{
 			"cap": "20",
@@ -1342,7 +1342,7 @@
 			"game_name": "troopRebelRancorCreature",
 			"maxLevel": 11,
 			"minLevel": 0,
-			"ui_name": "Rancor"
+			"ui_name": "Rancor (Strix)"
 		},
 		{
 			"cap": "20",
@@ -1350,7 +1350,7 @@
 			"game_name": "troopEmpireRancorCreature",
 			"maxLevel": 11,
 			"minLevel": 0,
-			"ui_name": "Rancor"
+			"ui_name": "Rancor (Strix)"
 		},
 		{
 			"cap": "12",
@@ -1390,7 +1390,7 @@
 			"game_name": "troopRebelHunterRancorCreature",
 			"maxLevel": 11,
 			"minLevel": 0,
-			"ui_name": "Hunter Rancor"
+			"ui_name": "Hunter Rancor (Strix)"
 		},
 		{
 			"cap": "20",
@@ -1398,7 +1398,7 @@
 			"game_name": "troopEmpireHunterRancorCreature",
 			"maxLevel": 11,
 			"minLevel": 0,
-			"ui_name": "Hunter Rancor"
+			"ui_name": "Hunter Rancor (Strix)"
 		},
 		{
 			"cap": "8",
@@ -1447,13 +1447,29 @@
 			"maxLevel": 11,
 			"minLevel": 0,
 			"ui_name": "Elite Orbak Marauder"
+		},
+			{
+			"cap": "0",
+			"faction": "rebel",
+			"game_name": "troopRebelKraytDragonCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Krayt Dragon (Strix)"
+		},
+			{
+			"cap": "0",
+			"faction": "empire",
+			"game_name": "troopEmpireKraytDragonCreature",
+			"maxLevel": 11,
+			"minLevel": 0,
+			"ui_name": "Krayt Dragon (Strix)"
 		}
 		
 	],
 	"level": true,
 	"name": "troop_data",
 	"notes": [
-		"Added Elite Orbak Marauder"
+		"Added Krayt Dragon (Strix)"
 	],
-	"version": 13
+	"version": 14
 }
