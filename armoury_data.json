@@ -1,5 +1,5 @@
 { "name": "armoury",
-  "version": 1,
+  "version": 2,
    "level": true,
   "notes": [
     "New structure with min/max versions"
@@ -683,6 +683,24 @@
     {
       "game_name": "eqpEmpireBarracksSummonHeavyMirror",
       "ui_name": "Shocktrooper Guard Reserve",
+      "faction": "empire",
+      "available_on": "all",
+      "cap": "13",
+      "minLevel": 0,
+      "maxLevel": 11
+    },
+     {
+      "game_name": "eqpRebelCantinaSummonMerc",
+      "ui_name": "Mercenary Guard Reserve",
+      "faction": "rebel",
+      "available_on": "all",
+      "cap": "13",
+      "minLevel": 0,
+      "maxLevel": 11
+    },
+     {
+      "game_name": "eqpEmpireCantinaSummonMerc",
+      "ui_name": "Mercenary Guard Reserve",
       "faction": "empire",
       "available_on": "all",
       "cap": "13",
