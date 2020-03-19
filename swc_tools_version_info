@@ -9,7 +9,7 @@
       {
         "name": "armoury_equipment",
         "url": "https://raw.githubusercontent.com/DaveCMo/Android-SWC-Tools/master/armoury_data.json",
-        "latestVersion": 2
+        "latestVersion": 3
       },
       {
         "name": "planets",
@@ -19,7 +19,7 @@
       {
         "name": "troops",
         "url": "https://raw.githubusercontent.com/DaveCMo/Android-SWC-Tools/master/troop_data.json",
-        "latestVersion": 13
+        "latestVersion": 14
       },
       {
         "name": "swc_http_headers",
