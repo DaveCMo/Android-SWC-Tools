@@ -1,6 +1,6 @@
 {
   "name": "buildings",
-  "version": 1,
+  "version": 2,
   "level": true,
   "notes": [
     "New structure with min/max versions"
@@ -15,8 +15,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 10
     },
     {
       "game_name": "rebelCreditGenerator",
@@ -27,7 +27,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -39,7 +39,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -51,8 +51,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 5
     },
     {
       "game_name": "rebelMaterialsGenerator",
@@ -63,7 +63,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -75,7 +75,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -87,7 +87,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -99,8 +99,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 10
     },
     {
       "game_name": "rebelContrabandStorage",
@@ -111,8 +111,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 17
     },
     {
       "game_name": "rebelBarracks",
@@ -123,7 +123,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -135,7 +135,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -147,8 +147,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 7
     },
     {
       "game_name": "rebelTacticalCommand",
@@ -159,7 +159,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -171,7 +171,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -183,8 +183,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 50
     },
     {
       "game_name": "rebelPlatformHeavyDroideka",
@@ -195,8 +195,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 50
     },
     {
       "game_name": "rebelTrapDropship",
@@ -207,7 +207,7 @@
       "isTrap": true,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -219,7 +219,7 @@
       "isTrap": true,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -231,7 +231,7 @@
       "isTrap": true,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -243,7 +243,7 @@
       "isTrap": true,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -255,8 +255,8 @@
       "isTrap": true,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 10
     },
     {
       "game_name": "rebelBurstTurret",
@@ -267,7 +267,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -279,7 +279,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -291,7 +291,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -303,7 +303,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -315,7 +315,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -327,7 +327,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -339,7 +339,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -351,8 +351,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 2
     },
     {
       "game_name": "rebelScoutTower",
@@ -363,8 +363,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 1
     },
     {
       "game_name": "rebelWall",
@@ -375,7 +375,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -387,7 +387,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -399,7 +399,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -483,8 +483,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 10
     },
     {
       "game_name": "empireCreditGenerator",
@@ -495,7 +495,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -507,7 +507,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -519,8 +519,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 5
     },
     {
       "game_name": "empireMaterialsGenerator",
@@ -531,7 +531,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -543,7 +543,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -555,7 +555,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -567,8 +567,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 10
     },
     {
       "game_name": "empireContrabandStorage",
@@ -579,7 +579,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -591,7 +591,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -603,7 +603,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -615,8 +615,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 7
     },
     {
       "game_name": "empireTacticalCommand",
@@ -627,7 +627,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -639,7 +639,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -651,8 +651,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 50
     },
     {
       "game_name": "empirePlatformHeavyDroideka",
@@ -663,8 +663,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 50
     },
     {
       "game_name": "empireTrapDropship",
@@ -675,7 +675,7 @@
       "isTrap": true,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -687,7 +687,7 @@
       "isTrap": true,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -699,7 +699,7 @@
       "isTrap": true,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -711,7 +711,7 @@
       "isTrap": true,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -723,8 +723,8 @@
       "isTrap": true,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 10
     },
     {
       "game_name": "empireBurstTurret",
@@ -735,7 +735,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -747,7 +747,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -759,7 +759,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -771,7 +771,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -783,7 +783,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -795,7 +795,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -807,7 +807,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -819,8 +819,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 2
     },
     {
       "game_name": "empireScoutTower",
@@ -831,8 +831,8 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
-      "maxLevel": 11
+      "minLevel": 1,
+      "maxLevel": 1
     },
     {
       "game_name": "empireWall",
@@ -843,7 +843,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -855,7 +855,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
@@ -867,7 +867,7 @@
       "isTrap": false,
       "isJunk": false,
       "cap": "1",
-      "minLevel": 0,
+      "minLevel": 1,
       "maxLevel": 11
     },
     {
