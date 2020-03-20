@@ -29,7 +29,7 @@
       {
         "name": "buildings",
         "url": "https://raw.githubusercontent.com/DaveCMo/Android-SWC-Tools/master/building_data.json",
-        "latestVersion": 2
+        "latestVersion": 3
       }
     ]
   }
