@@ -1,6 +1,6 @@
 {
   "name": "buildings",
-  "version": 2,
+  "version": 3,
   "level": true,
   "notes": [
     "New structure with min/max versions"
