@@ -1091,7 +1091,7 @@
 		{
 			"cap": "16",
 			"faction": "rebel",
-			"game_name": "troopRebel Chicken",
+			"game_name": "troopRebelChicken",
 			"maxLevel": 11,
 			"minLevel": 1,
 			"ui_name": "Stolen AT-DT Walker"
