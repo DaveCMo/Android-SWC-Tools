@@ -4,7 +4,7 @@
 			"cap": "4",
 			"faction": "rebel",
 			"game_name": "troopRebelHeavyStormDeath",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Undead Heavy"
 		},
@@ -12,7 +12,7 @@
 			"cap": "1",
 			"faction": "rebel",
 			"game_name": "troopRebelStormDeath",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Undead Storm"
 		},
@@ -20,7 +20,7 @@
 			"cap": "4",
 			"faction": "empire",
 			"game_name": "trooptroopEmpireHeavyStormDeath",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Undead Heavy"
 		},
@@ -36,7 +36,7 @@
 			"cap": "20",
 			"faction": "rebel",
 			"game_name": "troopRebelRageRancorCreature",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Rage Rancor (Strix)"
 		},
@@ -44,7 +44,7 @@
 			"cap": "20",
 			"faction": "rebel",
 			"game_name": "troopEmpireRageRancorCreature",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Rage Rancor Strix)"
 		},
@@ -204,7 +204,7 @@
 			"cap": "12",
 			"faction": "rebel",
 			"game_name": "troopMercenaryRebelBrute",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Dowutin Hunter"
 		},
@@ -220,7 +220,7 @@
 			"cap": "7",
 			"faction": "rebel",
 			"game_name": "troopMercenaryRebelTognath",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Tognath Marksman"
 		},
@@ -300,7 +300,7 @@
 			"cap": "4",
 			"faction": "rebel",
 			"game_name": "troopMercenaryBigMouthAlien",
-			"maxLevel": 11,
+			"maxLevel": 5,
 			"minLevel": 1,
 			"ui_name": "Drabatan Saboteur"
 		},
@@ -588,7 +588,7 @@
 			"cap": "6",
 			"faction": "empire",
 			"game_name": "troopMercenaryEmpireGamorreanWarrior",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Gamorrean Warrior"
 		},
@@ -612,7 +612,7 @@
 			"cap": "7",
 			"faction": "empire",
 			"game_name": "troopMercenaryEmpireRider",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Luggabeast"
 		},
@@ -620,7 +620,7 @@
 			"cap": "4",
 			"faction": "empire",
 			"game_name": "troopMercenaryEmpireTwilekIncinerator",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Twilek Incinerator"
 		},
@@ -628,7 +628,7 @@
 			"cap": "12",
 			"faction": "empire",
 			"game_name": "troopMercenarympireBrute",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Dowutin Hunter"
 		},
@@ -636,7 +636,7 @@
 			"cap": "4",
 			"faction": "empire",
 			"game_name": "troopMercenarySecurityDroid",
-			"maxLevel": 11,
+			"maxLevel": 5,
 			"minLevel": 1,
 			"ui_name": "Security Droid"
 		},
@@ -652,7 +652,7 @@
 			"cap": "7",
 			"faction": "empire",
 			"game_name": "troopEmpireTognath",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Tognath Marksman"
 		},
@@ -708,7 +708,7 @@
 			"cap": "15",
 			"faction": "empire",
 			"game_name": "troopEmpireGoldenMileCreature",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Fathier Rider"
 		},
@@ -764,7 +764,7 @@
 			"cap": "1",
 			"faction": "empire",
 			"game_name": "troopEmpireScoutDeath",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Undead Scout"
 		},
@@ -772,7 +772,7 @@
 			"cap": "20",
 			"faction": "empire",
 			"game_name": "trooppromoRancorEmpire",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Rancor"
 		},
@@ -812,7 +812,7 @@
 			"cap": "20",
 			"faction": "empire",
 			"game_name": "troopEmpireHunterRancor",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Hunter Rancor"
 		},
@@ -820,7 +820,7 @@
 			"cap": "50",
 			"faction": "empire",
 			"game_name": "troopEmpireRageRancor",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Rage Rancor"
 		},
@@ -828,7 +828,7 @@
 			"cap": "20",
 			"faction": "empire",
 			"game_name": "troopEmpireShadowRancor",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Shadow Rancor"
 		},
@@ -836,7 +836,7 @@
 			"cap": "20",
 			"faction": "empire",
 			"game_name": "troopKraytDragon",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Krayt Dragon"
 		},
@@ -940,7 +940,7 @@
 			"cap": "50",
 			"faction": "rebel",
 			"game_name": "troopRebelRageRancor",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Rage Rancor"
 		},
@@ -948,7 +948,7 @@
 			"cap": "20",
 			"faction": "rebel",
 			"game_name": "trooppromoRancorRebel",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Rancor"
 		},
@@ -956,7 +956,7 @@
 			"cap": "20",
 			"faction": "rebel",
 			"game_name": "troopRebelHunterRancor",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Hunter Rancor"
 		},
@@ -965,7 +965,7 @@
 			"faction": "rebel",
 			"game_name": "troopRebelShadowRancor",
 			"maxLevel": 11,
-			"minLevel": 1,
+			"minLevel": 10,
 			"ui_name": "Shadow Rancor"
 		},
 		{
@@ -980,7 +980,7 @@
 			"cap": "10",
 			"faction": "rebel",
 			"game_name": "troopStolenATST",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Stolen ATST"
 		},
@@ -988,7 +988,7 @@
 			"cap": "30",
 			"faction": "rebel",
 			"game_name": "troopStolenATAT",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Stolen ATAT"
 		},
@@ -996,7 +996,7 @@
 			"cap": "16",
 			"faction": "rebel",
 			"game_name": "troopStolenATDP",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Stolen AT-DP Walker"
 		},
@@ -1100,7 +1100,7 @@
 			"cap": "20",
 			"faction": "rebel",
 			"game_name": "troopKraytDragon",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Krayt Dragon"
 		},
@@ -1404,7 +1404,7 @@
 			"cap": "8",
 			"faction": "empire",
 			"game_name": "troopMercenaryEmpireBrute",
-			"maxLevel": 11,
+			"maxLevel": 10,
 			"minLevel": 1,
 			"ui_name": "Dowutin Hunter"
 		},
@@ -1471,5 +1471,5 @@
 	"notes": [
 		"Added Krayt Dragon (Strix)", "Data fixes for auto upgrade code. And just making things correct."
 	],
-	"version": 15
+	"version": 16
 }
