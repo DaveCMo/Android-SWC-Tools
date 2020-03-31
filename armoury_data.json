@@ -808,6 +808,36 @@
 			"type": "Troop"
 		},
 		{
+			"game_name": "eqpEmpireATMPHalfSkin",
+			"ui_name": "Enhanced AT-MP Walker",
+			"faction": "empire",
+			"available_on": "all",
+			"cap": 9,
+			"minLevel": 0,
+			"maxLevel": 10,
+			"type": "Vehicle"
+		},
+		{
+			"game_name": "eqpEmpireBetaTroop",
+			"ui_name": "Elite Orbak Marauder",
+			"faction": "empire",
+			"available_on": "all",
+			"cap": 13,
+			"minLevel": 0,
+			"maxLevel": 10,
+			"type": "Troop"
+		},
+		{
+			"game_name": "eqpEmpireCantinaHealth",
+			"ui_name": "Reinforced Cantina-Bracing",
+			"faction": "empire",
+			"available_on": "all",
+			"cap": 9,
+			"minLevel": 0,
+			"maxLevel": 10,
+			"type": "Building Bracing"
+		},
+		{
 			"game_name": "eqpRebelSandSoldier",
 			"ui_name": "Desert Soldier",
 			"faction": "rebel",
