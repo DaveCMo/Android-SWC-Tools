@@ -3,11 +3,7 @@ apply plugin: 'com.android.application'
 
 android {
     signingConfigs {
-        config {
-            keyAlias 'key0'
-            keyPassword 'thedachmo'
-            storeFile file('C:/Users/David/AndroidStudioProjects/SWCTools/signature.jks')
-            storePassword 'thedachmo'
+
         }
     }
     compileSdkVersion 28
