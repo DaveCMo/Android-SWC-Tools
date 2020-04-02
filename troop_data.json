@@ -1471,7 +1471,38 @@
 			"maxLevel": 11,
 			"minLevel": 1,
 			"ui_name": "Enhanced ATST"
+		},
+		{
+			"cap": "4",
+			"faction": "empire",
+			"game_name": "troopHeavyStormDeath",
+			"maxLevel": 11,
+			"minLevel": 1,
+			"ui_name": "Undead Heavy"
+		},
+				{
+			"cap": "15",
+			"faction": "empire",
+			"game_name": "troopHeavyATMPHalfSkinSample",
+			"maxLevel": 11,
+			"minLevel": 1,
+			"ui_name": "Enhanced AT-MP Walker"
+		},	{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopStormDeath",
+			"maxLevel": 11,
+			"minLevel": 1,
+			"ui_name": "Undead Stormtrooper"
+		},{
+			"cap": "1",
+			"faction": "empire",
+			"game_name": "troopScoutDeath",
+			"maxLevel": 11,
+			"minLevel": 1,
+			"ui_name": "Undead Scout Trooper"
 		}
+				
 		
 	],
 	"level": true,
