@@ -1519,6 +1519,14 @@
 			"maxLevel": 11,
 			"minLevel": 1,
 			"ui_name": "Enhanced AT-AP Walker"
+		},
+		{
+			"cap": "13",
+			"faction": "empire",
+			"game_name": "troopEmpireP006Droid",
+			"maxLevel": 11,
+			"minLevel": 1,
+			"ui_name": "Enhanced AT-AP Walker"
 		}
 	],
 	"level": true,
