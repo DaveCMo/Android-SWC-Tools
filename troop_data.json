@@ -1507,7 +1507,7 @@
 		{
 			"cap": "1",
 			"faction": "rebel",
-			"game_name": "troopRebelT2bTankHalfSkinSample",
+			"game_name": "troopRebelT2BTankHalfSkinSample",
 			"maxLevel": 11,
 			"minLevel": 1,
 			"ui_name": "Enhanced T2-B Repulsor Tank"
@@ -1519,22 +1519,6 @@
 			"maxLevel": 11,
 			"minLevel": 1,
 			"ui_name": "Enhanced AT-AP Walker"
-		},
-		{
-			"cap": "20",
-			"faction": "rebel",
-			"game_name": "troopRancor10Rebel",
-			"maxLevel": null,
-			"minLevel": null,
-			"ui_name": "Rancor"
-		},
-		{
-			"cap": "20",
-			"faction": "empire",
-			"game_name": "troopRancor10Rebel",
-			"maxLevel": null,
-			"minLevel": null,
-			"ui_name": "Rancor"
 		}
 	],
 	"level": true,
