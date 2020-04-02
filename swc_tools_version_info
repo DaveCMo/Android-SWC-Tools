@@ -1,7 +1,7 @@
 {
   "app_update": {
-    "latestVersion": 172,
-    "releaseLabel": "v5.0.0",
+    "latestVersion": 174,
+    "releaseLabel": "v5.0.1",
     "release_url": "https://github.com/DaveCMo/Android-SWC-Tools/releases/latest"
   },
   "data_update": {
@@ -19,7 +19,7 @@
       {
         "name": "troops",
         "url": "https://raw.githubusercontent.com/DaveCMo/Android-SWC-Tools/master/troop_data.json",
-        "latestVersion": 17
+        "latestVersion": 18
       },
       {
         "name": "swc_http_headers",
