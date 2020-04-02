@@ -1432,7 +1432,7 @@
 			"minLevel": 1,
 			"ui_name": "Orbak Marauder"
 		},
-			{
+		{
 			"cap": "10",
 			"faction": "rebel",
 			"game_name": "troopMercenaryRebelBetaTroopEqpSample",
@@ -1448,7 +1448,7 @@
 			"minLevel": 1,
 			"ui_name": "Elite Orbak Marauder"
 		},
-			{
+		{
 			"cap": "0",
 			"faction": "rebel",
 			"game_name": "troopRebelKraytDragonCreature",
@@ -1456,7 +1456,7 @@
 			"minLevel": 1,
 			"ui_name": "Krayt Dragon (Strix)"
 		},
-			{
+		{
 			"cap": "0",
 			"faction": "empire",
 			"game_name": "troopEmpireKraytDragonCreature",
@@ -1480,21 +1480,23 @@
 			"minLevel": 1,
 			"ui_name": "Undead Heavy"
 		},
-				{
+		{
 			"cap": "15",
 			"faction": "empire",
 			"game_name": "troopEmpireATMPHalfSkinSample",
 			"maxLevel": 11,
 			"minLevel": 1,
 			"ui_name": "Enhanced AT-MP Walker"
-		},	{
+		},
+		{
 			"cap": "1",
 			"faction": "empire",
 			"game_name": "troopEmpireStormDeath",
 			"maxLevel": 11,
 			"minLevel": 1,
 			"ui_name": "Undead Stormtrooper"
-		},{
+		},
+		{
 			"cap": "1",
 			"faction": "empire",
 			"game_name": "troopEmpireScoutDeath",
@@ -1517,14 +1519,16 @@
 			"maxLevel": 11,
 			"minLevel": 1,
 			"ui_name": "Enhanced AT-AP Walker"
-		},{
+		},
+		{
 			"cap": "20",
 			"faction": "rebel",
 			"game_name": "troopRancor10Rebel",
 			"maxLevel": null,
 			"minLevel": null,
 			"ui_name": "Rancor"
-		},{
+		},
+		{
 			"cap": "20",
 			"faction": "empire",
 			"game_name": "troopRancor10Rebel",
@@ -1532,13 +1536,13 @@
 			"minLevel": null,
 			"ui_name": "Rancor"
 		}
-				
-		
 	],
 	"level": true,
 	"name": "troop_data",
 	"notes": [
-		"Added Krayt Dragon (Strix)", "Data fixes for auto upgrade code. And just making things correct.", "Added Enhanced ATST"
+		"Added Krayt Dragon (Strix)",
+		"Data fixes for auto upgrade code. And just making things correct.",
+		"Added Enhanced ATST"
 	],
 	"version": 17
 }
