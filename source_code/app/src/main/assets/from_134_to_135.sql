@@ -1,0 +1,1 @@
+ALTER TABLE tmp_image_selection ADD COLUMN image_label TEXT;

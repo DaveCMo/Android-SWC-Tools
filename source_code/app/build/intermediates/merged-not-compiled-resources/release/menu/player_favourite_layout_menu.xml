@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/player_layout_fav"
+        android:icon="@drawable/ic_favorite_border_green_24dp"
+        android:title="Favourite" />
+    <item
+        android:id="@+id/player_layout_most"
+        android:icon="@drawable/ic_flash_on_green_24dp"
+        android:title="Most Used"
+        />
+
+</menu>

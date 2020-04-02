@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/filtersLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible"
+                tools:backgroundTint="@color/primary_material_light_1">
+
+                <View
+                    android:id="@+id/divider"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="@dimen/filterLabelSpinnerTopMargin"
+                    android:background="?android:attr/listDivider" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/filterLabelSpinnerBottomMargin"
+                    android:layout_marginLeft="@dimen/filterLabelSpinnerLeftMargin"
+                    android:layout_marginTop="@dimen/filterLabelSpinnerTopMargin"
+                    android:text="Player" />
+
+                <Spinner
+                    android:id="@+id/playerFilterSpinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/filterSpinnerBottomMargin"
+                    android:layout_marginLeft="@dimen/filterSpinnerLeftMargin"
+                    android:layout_marginTop="@dimen/filterSpinnerTopMargin"
+                    android:spinnerMode="dialog" />
+
+                <View
+                    android:id="@+id/divider2"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="?android:attr/listDivider" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/filterLabelSpinnerBottomMargin"
+                    android:layout_marginLeft="@dimen/filterLabelSpinnerLeftMargin"
+                    android:layout_marginTop="@dimen/filterLabelSpinnerTopMargin"
+                    android:text="Faction" />
+
+                <Spinner
+                    android:id="@+id/factionFilter"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/filterSpinnerBottomMargin"
+                    android:layout_marginLeft="@dimen/filterSpinnerLeftMargin"
+                    android:layout_marginTop="@dimen/filterSpinnerTopMargin"
+                    android:entries="@array/factions"
+                    android:spinnerMode="dialog"></Spinner>
+
+                <View
+                    android:id="@+id/divider3"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="?android:attr/listDivider" />
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/filterLabelSpinnerBottomMargin"
+                    android:layout_marginLeft="@dimen/filterLabelSpinnerLeftMargin"
+                    android:layout_marginTop="@dimen/filterLabelSpinnerTopMargin"
+                    android:text="Type" />
+
+                <Spinner
+                    android:id="@+id/typeFilter"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/filterSpinnerBottomMargin"
+                    android:layout_marginLeft="@dimen/filterSpinnerLeftMargin"
+                    android:layout_marginTop="@dimen/filterSpinnerTopMargin"
+                    android:spinnerMode="dialog"></Spinner>
+
+                <View
+                    android:id="@+id/divider4"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="?android:attr/listDivider" />
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/filterLabelSpinnerBottomMargin"
+                    android:layout_marginLeft="@dimen/filterLabelSpinnerLeftMargin"
+                    android:layout_marginTop="@dimen/filterLabelSpinnerTopMargin"
+                    android:text="Tag" />
+
+                <Spinner
+                    android:id="@+id/tagFilter"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/filterSpinnerBottomMargin"
+                    android:layout_marginLeft="@dimen/filterSpinnerLeftMargin"
+                    android:layout_marginTop="@dimen/filterSpinnerTopMargin"
+                    android:spinnerMode="dialog"></Spinner>
+
+                <View
+                    android:id="@+id/divider5"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="?android:attr/listDivider" />
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/filterLabelSpinnerBottomMargin"
+                    android:layout_marginLeft="@dimen/filterLabelSpinnerLeftMargin"
+                    android:layout_marginTop="@dimen/filterLabelSpinnerTopMargin"
+                    android:text="Favourite Layout" />
+                <Spinner
+                    android:id="@+id/favFilter"
+                    android:entries="@array/yesno"
+                    android:layout_marginBottom="@dimen/filterSpinnerBottomMargin"
+                    android:layout_marginLeft="@dimen/filterSpinnerLeftMargin"
+                    android:layout_marginTop="@dimen/filterSpinnerTopMargin"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

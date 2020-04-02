@@ -1,0 +1,16 @@
+<html>
+<h1>Version 5.0.0 release notes</h1>
+<h2>New Stuff</h2>
+<p><strong>* </strong>Request troops for war and regular base</p>
+<p><strong>* </strong>Repair droidekas</p>
+<p><strong>* </strong>Set equipment</p>
+<p><strong>* </strong>Multi select layouts for deletion/moving to different folders</p>
+<p><strong>* </strong>War room now shows last attacked by in list of players</p>
+<p><strong>* </strong>All war defences are now shown on a single swipe-able screen, with a summary listing some possibly useful or interesting stats on the troops used that war. </p>
+<h2>Bug Fixes</h2>
+<p><strong>* </strong>Occasional crashes for users with Android 8.0+ devices</p>
+<p><strong>* </strong>Occasional crashes for users with Android 8.0+ devices</p>
+
+<p><em><strong>For more details, visit the release page on the GitHub Repository (https://github.com/DaveCMo/Android-SWC-Tools/releases/latest).</strong></em></p>
+<p><em><strong>MTFBWY</strong></em></p>
+</html>

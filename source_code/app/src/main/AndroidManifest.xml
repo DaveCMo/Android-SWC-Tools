@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.swctools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:appComponentFactory">
+        <activity
+            android:name=".activity_modules.armoury_equipment.ArmouryEquipmentActivity"
+            android:label="@string/title_activity_armoury_equipment_activity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".activity_modules.image_db_to_disk_migration.DBToDiskImageActivity" />
+        <activity
+            android:name=".Sandbox.HalfPieChartActivity"
+            android:label="HalfPieChartActivity" />
+        <activity
+            android:name=".Sandbox.PieChartActivity"
+            android:label="PieChart" />
+        <activity
+            android:name=".activity_modules.war_battles.WarBattles"
+            android:label="@string/title_activity_war_attacks"
+            android:parentActivityName=".activity_modules.war_room.WarRoomActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.swctools.activity_modules.war_room.WarRoomActivity" />
+        </activity>
+        <activity
+            android:name=".activity_modules.ReleaseNotesActivity"
+            android:label="@string/title_activity_release_notes" />
+        <activity
+            android:name=".activity_modules.Version4Setup"
+            android:label="@string/title_activity_version4_setup" />
+        <activity
+            android:name=".activity_modules.V4WelcomeActivity"
+            android:label="@string/title_activity_v4_welcome" />
+        <activity android:name=".activity_modules.import_json.ImportJsonActivity">
+            <intent-filter tools:ignore="AppLinkUrlError">
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="*/*" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity_modules.about.AboutActivity" />
+        <activity
+            android:name=".activity_modules.gallery.ImageGalleryActivity"
+            android:label="@string/title_activity_image_gallery"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activity_modules.multi_image_picker.MultiImagePicker"
+            android:label="@string/title_activity_multi_image_picker"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activity_modules.layout_detail.LayoutDetail"
+            android:label="@string/title_activity_layout_detail"
+            android:parentActivityName=".activity_modules.layout_manager.LayoutManager"
+            android:theme="@style/BlueTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.layout_manager.LayoutManager" />
+        </activity>
+        <activity
+            android:name=".activity_modules.Version310"
+            android:label="@string/title_activity_version310"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_modules.EditLayoutJson.EditLayoutJsonActivity"
+            android:label="@string/title_activity_edit_layout_json"
+            android:parentActivityName=".activity.LayoutActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.swctools"
+            android:enabled="true"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <activity
+            android:name=".activity_modules.main.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activity_modules.add_player.AddPlayerActivity"
+            android:parentActivityName=".activity_modules.main.MainActivity"
+            android:theme="@style/BlueTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.main.MainActivity" />
+        </activity>
+        <activity
+            android:name=".activity_modules.war_sign_up.WarSignup"
+            android:parentActivityName=".activity_modules.war_sign_up.WarSignup"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustNothing">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.main.MainActivity" />
+        </activity>
+        <activity
+            android:name=".activity_modules.config_screens.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName=".activity_modules.main.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.main.MainActivity" />
+        </activity>
+        <activity
+            android:name=".activity_modules.player.PlayerActivity"
+            android:label="@string/title_activity_player"
+            android:parentActivityName=".activity_modules.main.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.main.MainActivity" />
+        </activity>
+        <activity
+            android:name=".activity_modules.save_layout.SaveLayout_Activity"
+            android:label="Import SWC Layout JSON">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.main.MainActivity" />
+        </activity>
+        <activity android:name=".activity_modules.layout_manager.LayoutManager">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.main.MainActivity" />
+        </activity>
+        <activity android:name=".activity_modules.logs.LogsActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.main.MainActivity" />
+        </activity>
+        <activity android:name=".activity_modules.defence_tracker.DefenceTrackerActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.main.MainActivity" />
+        </activity>
+        <activity android:name=".activity_modules.tags_types.ManageTypeTagActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.main.MainActivity" />
+        </activity>
+        <activity
+            android:name=".activity_modules.Splash"
+            android:label="@string/app_name">
+            <intent-filter android:label="@string/app_name">
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".activity_modules.updates.UpdateService"
+            android:enabled="true"
+            android:exported="false"
+            android:label="UpdateService" />
+        <service
+            android:name=".swc_server_interactions.services.ManifestUpdateService"
+            android:exported="false" />
+        <service
+            android:name=".activity_modules.defence_tracker.DefenceLogJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <receiver
+            android:name=".common.notifications.NotificationDismissedReceiver"
+            android:exported="false" />
+
+        <activity android:name=".activity_modules.say_thanks.SayThanksActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".activity_modules.TestShit" />
+        <activity
+            android:name=".activity_modules.updates.UpdateDataActivity"
+            android:label="@string/title_activity_update_data"
+            android:parentActivityName=".activity_modules.main.MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.main.MainActivity" />
+        </activity>
+        <activity
+            android:name=".activity_modules.war_room.WarRoomActivity"
+            android:label="@string/title_activity_war_dashboard"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="stateHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.layout_manager.LayoutManager" />
+        </activity>
+        <activity
+            android:name=".activity_modules.player_config.PlayerConfig"
+            android:label="@string/title_activity_player_config"
+            android:parentActivityName=".activity_modules.main.MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity_modules.main.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path name="name" path="." />
+    <root-path name="root" path="" />
+    <external-path name="name" path="/" />
+    <!--<external-path name="name" path="/layout manager exports/" />-->
+    <!--<external-files-path name="name" path="." />-->
+    <external-cache-path name="name" path="." />
+    <external-cache-path name="name" path="." />
+    <!--<external-media-path name="name" path="." />-->
+
+</paths>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="equipment_types">
+        <item>- Type -</item>
+        <item>Troop</item>
+        <item>Vehicle</item>
+        <item>Hero</item>
+        <item>Turret</item>
+        <item>Guard Reserve</item>
+        <item>Building Bracing</item>
+        <item>Air</item>
+    </string-array>
+</resources>

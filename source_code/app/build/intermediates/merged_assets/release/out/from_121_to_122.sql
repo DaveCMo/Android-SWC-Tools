@@ -1,0 +1,2 @@
+ALTER TABLE buildings ADD COLUMN type TEXT;
+ALTER TABLE buildings ADD COLUMN isJunk TEXT;

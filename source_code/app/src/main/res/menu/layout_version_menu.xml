@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/layout_version_editJson"
+        android:title="Edit JSON"
+        app:showAsAction="always|collapseActionView" />
+    <item
+        android:id="@+id/layout_version_share"
+        android:title="Share"
+        app:showAsAction="always|collapseActionView" />
+    <item
+        android:id="@+id/layout_version_export"
+        android:title="Export Layout"
+        app:showAsAction="always|collapseActionView" />
+    <item
+        android:id="@+id/layout_version_delete"
+        android:title="Delete"
+        app:showAsAction="always|collapseActionView" />
+
+
+</menu>

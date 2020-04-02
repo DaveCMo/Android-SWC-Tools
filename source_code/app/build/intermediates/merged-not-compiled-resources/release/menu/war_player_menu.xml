@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/war_player_view_sc"
+        android:title="View Sullust Troops" />
+    <item
+        android:id="@+id/war_player_attacks"
+        android:title="View Last Defence" />
+</menu>

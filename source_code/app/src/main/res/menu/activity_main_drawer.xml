@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_import_layout"
+            android:icon="@drawable/ic_folder_open_drawer_24dp"
+            android:title="@string/drawer_import" />
+        <item
+            android:id="@+id/drawer_layout_manager"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="@string/drawer_layout_manager" />
+        <item
+            android:id="@+id/drawer_defence_tracker"
+            android:icon="@drawable/ic_notifications_active_black_24dp"
+            android:title="Defence Tracker" />
+        <item
+            android:id="@+id/drawer_war_signup"
+            android:icon="@drawable/ic_list_black_24dp"
+            android:title="War Signup" />
+        <item
+            android:id="@+id/drawer_war_room"
+            android:icon="@drawable/ic_dvr_black_24dp"
+            android:title="War Room" />
+    </group>
+    <group android:checkableBehavior="single">
+
+    </group>
+
+
+    <item android:title="Tools">
+        <menu>
+            <item
+                android:id="@+id/drawer_settings"
+                android:icon="@drawable/ic_settings_24dp"
+                android:title="@string/drawer_settings" />
+            <item
+                android:id="@+id/drawer_about"
+                android:icon="@drawable/ic_assignment_black_24dp"
+                android:title="Contact/About/FAQ" />
+            <item
+                android:id="@+id/drawer_say_thanks"
+                android:icon="@drawable/ic_local_drink_black_24dp"
+                android:title="Say Thanks" />
+            <item
+                android:id="@+id/drawer_manage_tags"
+                android:icon="@drawable/ic_label_black_24dp"
+                android:title="Manage Types/Tags" />
+            <item
+                android:id="@+id/drawer_update"
+                android:icon="@drawable/ic_refresh_black_24dp"
+                android:title="Check for Updates" />
+            <item
+                android:id="@+id/drawer_force_update"
+                android:icon="@drawable/ic_loop_black_24dp"
+                android:title="Force Data Update" />
+            <item
+                android:id="@+id/drawer_release_notes"
+                android:icon="@drawable/ic_local_library_black_24dp"
+                android:title="Release Notes" />
+            <item
+                android:id="@+id/drawer_logs"
+                android:icon="@drawable/ic_info_24dp"
+                android:title="@string/drawer_logs" />
+        </menu>
+    </item>
+
+
+</menu>

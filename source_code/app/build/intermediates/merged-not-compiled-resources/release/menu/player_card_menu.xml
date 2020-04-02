@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/player_war_room"
+        android:title="War Room"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/player_view_details"
+        android:title="View Config"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/player_card_delete"
+        android:title="Delete"
+        app:showAsAction="always" />
+
+</menu>

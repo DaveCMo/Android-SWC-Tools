@@ -1,0 +1,469 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.swctools"
+4    android:versionCode="169"
+5    android:versionName="Version 5.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:8:5-80
+13-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:9:5-81
+14-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+15-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:10:5-81
+15-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:11:5-77
+16-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:11:22-74
+17
+18    <application
+18-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:13:5-229:19
+19        android:name="com.swctools.App"
+19-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:14:9-28
+20        android:allowBackup="true"
+20-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:15:9-35
+21        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+21-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:16:9-82
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:17:9-43
+23        android:label="@string/app_name"
+23-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:18:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:19:9-54
+25        android:supportsRtl="true"
+25-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:20:9-35
+26        android:theme="@style/AppTheme" >
+26-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:21:9-40
+27        <activity
+27-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:23:9-26:68
+28            android:name="com.swctools.activity_modules.armoury_equipment.ArmouryEquipmentActivity"
+28-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:24:13-88
+29            android:label="@string/title_activity_armoury_equipment_activity"
+29-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:25:13-78
+30            android:theme="@style/AppTheme.NoActionBar" />
+30-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:26:13-56
+31        <activity android:name="com.swctools.activity_modules.image_db_to_disk_migration.DBToDiskImageActivity" />
+31-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:27:9-103
+31-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:27:19-100
+32        <activity
+32-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:28:9-30:52
+33            android:name="com.swctools.Sandbox.HalfPieChartActivity"
+33-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:29:13-57
+34            android:label="HalfPieChartActivity" />
+34-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:30:13-49
+35        <activity
+35-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:31:9-33:40
+36            android:name="com.swctools.Sandbox.PieChartActivity"
+36-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:32:13-53
+37            android:label="PieChart" />
+37-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:33:13-37
+38        <activity
+38-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:34:9-41:20
+39            android:name="com.swctools.activity_modules.war_battles.WarBattles"
+39-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:35:13-68
+40            android:label="@string/title_activity_war_attacks"
+40-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:36:13-63
+41            android:parentActivityName="com.swctools.activity_modules.war_room.WarRoomActivity" >
+41-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:37:13-84
+42            <meta-data
+42-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+43                android:name="android.support.PARENT_ACTIVITY"
+43-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+44                android:value="com.swctools.activity_modules.war_room.WarRoomActivity" />
+44-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+45        </activity>
+46        <activity
+46-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:42:9-44:68
+47            android:name="com.swctools.activity_modules.ReleaseNotesActivity"
+47-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:43:13-66
+48            android:label="@string/title_activity_release_notes" />
+48-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:44:13-65
+49        <activity
+49-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:45:9-47:69
+50            android:name="com.swctools.activity_modules.Version4Setup"
+50-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:46:13-59
+51            android:label="@string/title_activity_version4_setup" />
+51-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:47:13-66
+52        <activity
+52-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:48:9-50:65
+53            android:name="com.swctools.activity_modules.V4WelcomeActivity"
+53-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:49:13-63
+54            android:label="@string/title_activity_v4_welcome" />
+54-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:50:13-62
+55        <activity android:name="com.swctools.activity_modules.import_json.ImportJsonActivity" >
+55-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:51:9-59:20
+55-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:51:19-82
+56            <intent-filter>
+56-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:52:13-58:29
+57                <action android:name="android.intent.action.SEND" />
+57-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:53:17-69
+57-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:53:25-66
+58
+59                <category android:name="android.intent.category.DEFAULT" />
+59-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:55:17-76
+59-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:55:27-73
+60
+61                <data android:mimeType="*/*" />
+61-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:57:17-48
+61-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:57:23-45
+62            </intent-filter>
+63        </activity>
+64        <activity android:name="com.swctools.activity_modules.about.AboutActivity" />
+64-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:60:9-74
+64-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:60:19-71
+65        <activity
+65-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:61:9-64:59
+66            android:name="com.swctools.activity_modules.gallery.ImageGalleryActivity"
+66-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:62:13-74
+67            android:label="@string/title_activity_image_gallery"
+67-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:63:13-65
+68            android:theme="@style/AppTheme.NoActionBar" />
+68-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:64:13-56
+69        <activity
+69-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:65:9-68:59
+70            android:name="com.swctools.activity_modules.multi_image_picker.MultiImagePicker"
+70-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:66:13-81
+71            android:label="@string/title_activity_multi_image_picker"
+71-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:67:13-70
+72            android:theme="@style/AppTheme.NoActionBar" />
+72-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:68:13-56
+73        <activity
+73-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:69:9-77:20
+74            android:name="com.swctools.activity_modules.layout_detail.LayoutDetail"
+74-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:70:13-72
+75            android:label="@string/title_activity_layout_detail"
+75-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:71:13-65
+76            android:parentActivityName="com.swctools.activity_modules.layout_manager.LayoutManager"
+76-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:72:13-88
+77            android:theme="@style/BlueTheme" >
+77-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:73:13-45
+78            <meta-data
+78-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+79                android:name="android.support.PARENT_ACTIVITY"
+79-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+80                android:value=".activity_modules.layout_manager.LayoutManager" />
+80-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+81        </activity>
+82        <activity
+82-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:78:9-85:20
+83            android:name="com.swctools.activity_modules.Version310"
+83-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:79:13-56
+84            android:label="@string/title_activity_version310"
+84-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:80:13-62
+85            android:theme="@style/AppTheme.NoActionBar" >
+85-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:81:13-56
+86            <intent-filter>
+86-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:82:13-84:29
+87                <action android:name="android.intent.action.MAIN" />
+87-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:83:17-69
+87-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:83:25-66
+88            </intent-filter>
+89        </activity>
+90        <activity
+90-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:86:9-90:59
+91            android:name="com.swctools.activity_modules.EditLayoutJson.EditLayoutJsonActivity"
+91-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:87:13-83
+92            android:label="@string/title_activity_edit_layout_json"
+92-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:88:13-68
+93            android:parentActivityName="com.swctools.activity.LayoutActivity"
+93-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:89:13-66
+94            android:theme="@style/AppTheme.NoActionBar" />
+94-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:90:13-56
+95
+96        <provider
+96-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:92:9-101:20
+97            android:name="androidx.core.content.FileProvider"
+97-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:93:13-62
+98            android:authorities="com.swctools"
+98-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:94:13-47
+99            android:enabled="true"
+99-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:95:13-35
+100            android:exported="false"
+100-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:96:13-37
+101            android:grantUriPermissions="true" >
+101-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:97:13-47
+102            <meta-data
+102-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:98:13-100:58
+103                android:name="android.support.FILE_PROVIDER_PATHS"
+103-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:99:17-67
+104                android:resource="@xml/provider_paths" />
+104-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:100:17-55
+105        </provider>
+106
+107        <activity
+107-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:103:9-107:47
+108            android:name="com.swctools.activity_modules.main.MainActivity"
+108-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:104:13-63
+109            android:label="@string/app_name"
+109-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:105:13-45
+110            android:launchMode="singleTask"
+110-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:106:13-44
+111            android:theme="@style/AppTheme" />
+111-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:107:13-44
+112        <activity
+112-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:108:9-115:20
+113            android:name="com.swctools.activity_modules.add_player.AddPlayerActivity"
+113-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:109:13-74
+114            android:parentActivityName="com.swctools.activity_modules.main.MainActivity"
+114-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:110:13-77
+115            android:theme="@style/BlueTheme" >
+115-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:111:13-45
+116            <meta-data
+116-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+117                android:name="android.support.PARENT_ACTIVITY"
+117-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+118                android:value=".activity_modules.main.MainActivity" />
+118-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+119        </activity>
+120        <activity
+120-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:116:9-124:20
+121            android:name="com.swctools.activity_modules.war_sign_up.WarSignup"
+121-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:117:13-67
+122            android:parentActivityName="com.swctools.activity_modules.war_sign_up.WarSignup"
+122-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:118:13-81
+123            android:theme="@style/AppTheme"
+123-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:119:13-44
+124            android:windowSoftInputMode="adjustNothing" >
+124-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:120:13-56
+125            <meta-data
+125-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+126                android:name="android.support.PARENT_ACTIVITY"
+126-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+127                android:value=".activity_modules.main.MainActivity" />
+127-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+128        </activity>
+129        <activity
+129-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:125:9-132:20
+130            android:name="com.swctools.activity_modules.config_screens.SettingsActivity"
+130-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:126:13-77
+131            android:label="@string/title_activity_settings"
+131-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:127:13-60
+132            android:parentActivityName="com.swctools.activity_modules.main.MainActivity" >
+132-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:128:13-77
+133            <meta-data
+133-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+134                android:name="android.support.PARENT_ACTIVITY"
+134-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+135                android:value=".activity_modules.main.MainActivity" />
+135-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+136        </activity>
+137        <activity
+137-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:133:9-140:20
+138            android:name="com.swctools.activity_modules.player.PlayerActivity"
+138-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:134:13-67
+139            android:label="@string/title_activity_player"
+139-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:135:13-58
+140            android:parentActivityName="com.swctools.activity_modules.main.MainActivity" >
+140-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:136:13-77
+141            <meta-data
+141-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+142                android:name="android.support.PARENT_ACTIVITY"
+142-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+143                android:value=".activity_modules.main.MainActivity" />
+143-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+144        </activity>
+145        <activity
+145-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:141:9-147:20
+146            android:name="com.swctools.activity_modules.save_layout.SaveLayout_Activity"
+146-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:142:13-77
+147            android:label="Import SWC Layout JSON" >
+147-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:143:13-51
+148            <meta-data
+148-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+149                android:name="android.support.PARENT_ACTIVITY"
+149-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+150                android:value=".activity_modules.main.MainActivity" />
+150-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+151        </activity>
+152        <activity android:name="com.swctools.activity_modules.layout_manager.LayoutManager" >
+152-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:148:9-152:20
+152-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:148:19-80
+153            <meta-data
+153-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+154                android:name="android.support.PARENT_ACTIVITY"
+154-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+155                android:value=".activity_modules.main.MainActivity" />
+155-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+156        </activity>
+157        <activity android:name="com.swctools.activity_modules.logs.LogsActivity" >
+157-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:153:9-157:20
+157-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:153:19-69
+158            <meta-data
+158-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+159                android:name="android.support.PARENT_ACTIVITY"
+159-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+160                android:value=".activity_modules.main.MainActivity" />
+160-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+161        </activity>
+162        <activity android:name="com.swctools.activity_modules.defence_tracker.DefenceTrackerActivity" >
+162-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:158:9-162:20
+162-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:158:19-90
+163            <meta-data
+163-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+164                android:name="android.support.PARENT_ACTIVITY"
+164-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+165                android:value=".activity_modules.main.MainActivity" />
+165-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+166        </activity>
+167        <activity android:name="com.swctools.activity_modules.tags_types.ManageTypeTagActivity" >
+167-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:163:9-167:20
+167-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:163:19-84
+168            <meta-data
+168-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+169                android:name="android.support.PARENT_ACTIVITY"
+169-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+170                android:value=".activity_modules.main.MainActivity" />
+170-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+171        </activity>
+172        <activity
+172-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:168:9-177:20
+173            android:name="com.swctools.activity_modules.Splash"
+173-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:169:13-52
+174            android:label="@string/app_name" >
+174-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:170:13-45
+175            <intent-filter android:label="@string/app_name" >
+175-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:171:13-176:29
+175-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:171:28-60
+176                <action android:name="android.intent.action.MAIN" />
+176-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:83:17-69
+176-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:83:25-66
+177
+178                <category android:name="android.intent.category.DEFAULT" />
+178-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:55:17-76
+178-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:55:27-73
+179                <category android:name="android.intent.category.LAUNCHER" />
+179-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:175:17-77
+179-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:175:27-74
+180            </intent-filter>
+181        </activity>
+182
+183        <service
+183-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:179:9-183:45
+184            android:name="com.swctools.activity_modules.updates.UpdateService"
+184-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:180:13-67
+185            android:enabled="true"
+185-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:181:13-35
+186            android:exported="false"
+186-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:182:13-37
+187            android:label="UpdateService" />
+187-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:183:13-42
+188        <service
+188-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:184:9-186:40
+189            android:name="com.swctools.swc_server_interactions.services.ManifestUpdateService"
+189-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:185:13-83
+190            android:exported="false" />
+190-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:186:13-37
+191        <service
+191-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:187:9-189:72
+192            android:name="com.swctools.activity_modules.defence_tracker.DefenceLogJobService"
+192-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:188:13-82
+193            android:permission="android.permission.BIND_JOB_SERVICE" />
+193-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:189:13-69
+194
+195        <receiver
+195-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:191:9-193:40
+196            android:name="com.swctools.common.notifications.NotificationDismissedReceiver"
+196-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:192:13-79
+197            android:exported="false" />
+197-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:193:13-37
+198
+199        <activity android:name="com.swctools.activity_modules.say_thanks.SayThanksActivity" />
+199-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:195:9-83
+199-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:195:19-80
+200
+201        <meta-data
+201-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:197:9-199:57
+202            android:name="preloaded_fonts"
+202-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:198:13-43
+203            android:resource="@array/preloaded_fonts" />
+203-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:199:13-54
+204
+205        <activity android:name="com.swctools.activity_modules.TestShit" />
+205-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:201:9-63
+205-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:201:19-60
+206        <activity
+206-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:202:9-210:20
+207            android:name="com.swctools.activity_modules.updates.UpdateDataActivity"
+207-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:203:13-72
+208            android:label="@string/title_activity_update_data"
+208-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:204:13-63
+209            android:parentActivityName="com.swctools.activity_modules.main.MainActivity"
+209-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:205:13-77
+210            android:theme="@style/AppTheme" >
+210-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:206:13-44
+211            <meta-data
+211-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+212                android:name="android.support.PARENT_ACTIVITY"
+212-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+213                android:value=".activity_modules.main.MainActivity" />
+213-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+214        </activity>
+215        <activity
+215-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:211:9-219:20
+216            android:name="com.swctools.activity_modules.war_room.WarRoomActivity"
+216-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:212:13-70
+217            android:label="@string/title_activity_war_dashboard"
+217-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:213:13-65
+218            android:theme="@style/AppTheme"
+218-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:214:13-44
+219            android:windowSoftInputMode="stateHidden" >
+219-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:215:13-54
+220            <meta-data
+220-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+221                android:name="android.support.PARENT_ACTIVITY"
+221-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+222                android:value=".activity_modules.layout_manager.LayoutManager" />
+222-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+223        </activity>
+224        <activity
+224-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:220:9-228:20
+225            android:name="com.swctools.activity_modules.player_config.PlayerConfig"
+225-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:221:13-72
+226            android:label="@string/title_activity_player_config"
+226-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:222:13-65
+227            android:parentActivityName="com.swctools.activity_modules.main.MainActivity"
+227-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:223:13-77
+228            android:theme="@style/AppTheme" >
+228-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:224:13-44
+229            <meta-data
+229-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+230                android:name="android.support.PARENT_ACTIVITY"
+230-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+231                android:value=".activity_modules.main.MainActivity" />
+231-->C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+232        </activity>
+233        <!--
+234             Receives GooglePlay execution requests and forwards them to the
+235             appropriate internal service.
+236        -->
+237        <service
+237-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:32:9-39:19
+238            android:name="com.firebase.jobdispatcher.GooglePlayReceiver"
+238-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:33:13-73
+239            android:exported="true"
+239-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:34:13-36
+240            android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE" >
+240-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:35:13-93
+241            <intent-filter>
+241-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:36:13-38:29
+242                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY" />
+242-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:37:17-87
+242-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:37:25-84
+243            </intent-filter>
+244        </service>
+245    </application>
+246
+247</manifest>

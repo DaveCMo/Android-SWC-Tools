@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/layout_card_moveFolder"
+        android:title="Move to folder..."
+        app:showAsAction="always"/>
+    <item android:id="@+id/layout_card_export"
+        android:title="Export latest version"
+        app:showAsAction="always"/>
+    <item android:id="@+id/layout_card_share"
+        android:title="Share latest version"
+        app:showAsAction="always"/>
+    <item android:id="@+id/layout_card_delete"
+        android:title="Delete"
+        app:showAsAction="always"/>
+
+
+</menu>

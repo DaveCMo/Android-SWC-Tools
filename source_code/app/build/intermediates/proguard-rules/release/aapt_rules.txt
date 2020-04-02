@@ -1,0 +1,637 @@
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:18
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:96
+-keep class androidx.core.content.FileProvider { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:237
+-keep class com.firebase.jobdispatcher.GooglePlayReceiver { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:18
+-keep class com.swctools.App { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:32
+-keep class com.swctools.Sandbox.HalfPieChartActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:35
+-keep class com.swctools.Sandbox.PieChartActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:90
+-keep class com.swctools.activity_modules.EditLayoutJson.EditLayoutJsonActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:46
+-keep class com.swctools.activity_modules.ReleaseNotesActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:172
+-keep class com.swctools.activity_modules.Splash { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:205
+-keep class com.swctools.activity_modules.TestShit { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:52
+-keep class com.swctools.activity_modules.V4WelcomeActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:82
+-keep class com.swctools.activity_modules.Version310 { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:49
+-keep class com.swctools.activity_modules.Version4Setup { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:64
+-keep class com.swctools.activity_modules.about.AboutActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:112
+-keep class com.swctools.activity_modules.add_player.AddPlayerActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:27
+-keep class com.swctools.activity_modules.armoury_equipment.ArmouryEquipmentActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:129
+-keep class com.swctools.activity_modules.config_screens.SettingsActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:191
+-keep class com.swctools.activity_modules.defence_tracker.DefenceLogJobService { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:162
+-keep class com.swctools.activity_modules.defence_tracker.DefenceTrackerActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:65
+-keep class com.swctools.activity_modules.gallery.ImageGalleryActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:31
+-keep class com.swctools.activity_modules.image_db_to_disk_migration.DBToDiskImageActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:55
+-keep class com.swctools.activity_modules.import_json.ImportJsonActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:73
+-keep class com.swctools.activity_modules.layout_detail.LayoutDetail { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:152
+-keep class com.swctools.activity_modules.layout_manager.LayoutManager { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:157
+-keep class com.swctools.activity_modules.logs.LogsActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:107
+-keep class com.swctools.activity_modules.main.MainActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:69
+-keep class com.swctools.activity_modules.multi_image_picker.MultiImagePicker { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:137
+-keep class com.swctools.activity_modules.player.PlayerActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:224
+-keep class com.swctools.activity_modules.player_config.PlayerConfig { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:145
+-keep class com.swctools.activity_modules.save_layout.SaveLayout_Activity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:199
+-keep class com.swctools.activity_modules.say_thanks.SayThanksActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:167
+-keep class com.swctools.activity_modules.tags_types.ManageTypeTagActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:206
+-keep class com.swctools.activity_modules.updates.UpdateDataActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:183
+-keep class com.swctools.activity_modules.updates.UpdateService { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:38
+-keep class com.swctools.activity_modules.war_battles.WarBattles { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:215
+-keep class com.swctools.activity_modules.war_room.WarRoomActivity { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:120
+-keep class com.swctools.activity_modules.war_sign_up.WarSignup { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:195
+-keep class com.swctools.common.notifications.NotificationDismissedReceiver { <init>(); }
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:188
+-keep class com.swctools.swc_server_interactions.services.ManifestUpdateService { <init>(); }
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_alert_dialog_title_material.xml:56
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_action_mode_bar.xml:19
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_dialog_title_material.xml:22
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_add_layout_tag.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_about.xml:4
+-keep class androidx.appcompat.widget.LinearLayoutCompat { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_add_layout_tag.xml:39
+-keep class androidx.appcompat.widget.SearchView { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout-v26\abc_screen_toolbar.xml:37
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_sc_armoury.xml:103
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\app_bar_main.xml:14
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_signup.xml:19
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_room.xml:27
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_attacks.xml:15
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_version310.xml:14
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_update_data.xml:14
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_settings.xml:14
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_scrolling.xml:26
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_say_thanks.xml:14
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_save_layout_.xml:14
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_player_config.xml:14
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_player.xml:23
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_multi_image_picker.xml:20
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_main.xml:27
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_logs.xml:14
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_typetag.xml:15
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_manager.xml:26
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_detail.xml:52
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_edit_layout_json.xml:15
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_defence_tracker.xml:14
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_armoury_equipment_activity.xml:22
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_add_player.xml:21
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_about.xml:14
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_screen_simple.xml:25
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\war_dashboard_header.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\playerdetails_player_info.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\playerdetails_player_defence_log.xml:50
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\old__list_item_favourite_layout_simple.xml:65
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_summary.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_player.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_participant.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_battle_troops.xml:14
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_attack_header.xml:11
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_attack_detail.xml:21
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_tag_pill.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_recycler_view.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_tactical_capacity.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_sc_armoury.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_resource.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_card.xml:4
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_folder.xml:3
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_detail_tags.xml:4
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_detail_main.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_detail_folders.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_favourite_layout.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_droid_card.xml:3
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_conflict_data.xml:3
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_armoury_available.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_armoury_added_small.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_armoury_added.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_2_text_group_item.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\layout_card_selected.xml:11
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\layout_card.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_version.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_images_card.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_folder_tag.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_favourite_selection.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_detail_main.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_folder_card.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\grid_item_troop.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_save_layout.xml:47
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_favourite_layouts.xml:51
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_battlelog_container.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_armoury_equipment_activity.xml:51
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\card_recycler_no_title.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_player.xml:150
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_manager.xml:283
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\war_dashboard_header.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\war_dashboard_fragment_squad.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\update_layout_list_item.xml:22
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\update_layout_fragment.xml:38
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\tmp_fkupfile.xml:25
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\splash.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\spinner_view.xml:26
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\spinner_text_view.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\spinner_image_text.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\progress_overlay.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\playerinfo_droid_card.xml:11
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\playerdetails_player_sc.xml:17
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\playerdetails_player_info.xml:18
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\playerdetails_player_defence_log.xml:17
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\playerdetails_player_armoury.xml:25
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\old__list_item_favourite_layout_simple.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_summary.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_sc_detail.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_player.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_party_members.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_participant.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_outpost.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_battle_troops.xml:21
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_attack_header.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_attack_detail.xml:29
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_tag_pill.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_spacer_no_padding.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_spacer.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_single_text_group_item.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_single_text_child_item.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_single_text_bullet.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_recycler_view.xml:12
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_tactical_capacity.xml:24
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_sc_armoury.xml:22
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_resource.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_notification.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_card.xml:26
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_message_log_row.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_version.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_top_selection.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_itemheader.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_item.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_folder_nomargin.xml:4
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_folder.xml:13
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_detail_tags.xml:16
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_detail_main.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_detail_folders.xml:16
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_image_view.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_image_unselected.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_image_selected.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_guild.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_folder_breadcrumb.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_favourite_layout_simple.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_favourite_layout.xml:11
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_droid_card.xml:12
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_defence_list_row.xml:25
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_db_upgrade_log.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_data_update_header.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_data_update.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_conflict_data_title.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_conflict_data_data.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_conflict_data.xml:12
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_check_with_text.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_battle_stats.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_armoury_available.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_armoury_added_small.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_armoury_added.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_3_text_group_item.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_2_text_group_item_nonbold.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_2_text_group_item_compact.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_2_text_group_item.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\layout_t_rowitem.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\layout_card_selected.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\layout_card.xml:19
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_version.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_images_card.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_folder_tag.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_favourite_selection.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_detail_main.xml:15
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_folder_card.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\grid_item_troop.xml:11
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_yes_no.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_summary.xml:22
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_signup_set_details.xml:18
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_signup_search.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_signup_memberselect.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_signup_guildresults.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_sc.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_dashboard.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_dash_signup.xml:11
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_version310.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_v4_welcome.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_text_view.xml:26
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_save_layout.xml:16
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_progress_spinner.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_player_favourite_layout.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_player_config.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_manage_tag.xml:11
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_layout_folder.xml:32
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_image_gallery.xml:4
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_getting_started_buttons.xml:15
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_getting_started.xml:13
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_favourite_layouts.xml:17
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_favourite_layout_item.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_db_update_log.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_conflict_tracker.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_blank_layout.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_battlelog_container.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_battle_detail.xml:20
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_alert_message.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_add_layout_tag.xml:21
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\favourite_layout_tabs.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_update_data.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_player.xml:18
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_multi_image_picker.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_edit_layout_json.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_armoury_equipment_activity.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\card_recycler_no_title.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_signup.xml:26
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_room.xml:34
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_version4_setup.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_splash.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_settings.xml:33
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_release_notes.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_player.xml:29
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_multi_image_picker.xml:16
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_main.xml:32
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_manager.xml:22
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_detail.xml:46
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout.xml:79
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_import_json.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_image_gallery.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_defence_tracker.xml:32
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_add_player.xml:93
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_about.xml:27
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\war_dashboard_header.xml:13
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\update_layout_list_item.xml:86
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\spinner_image_text.xml:33
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\progress_overlay.xml:40
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\old__list_item_favourite_layout_simple.xml:144
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_summary.xml:60
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_player.xml:181
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_participant.xml:82
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_attack_header.xml:116
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_card.xml:178
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_itemheader.xml:74
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_item.xml:89
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_detail_main.xml:86
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_favourite_layout_simple.xml:73
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_favourite_layout.xml:108
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_armoury_available.xml:63
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_armoury_added.xml:61
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_version.xml:53
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_images_card.xml:57
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_favourite_selection.xml:53
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_detail_main.xml:90
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_folder_card.xml:62
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_summary.xml:56
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_dash_signup.xml:64
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_save_layout.xml:26
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_player_config.xml:46
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_favourite_layouts.xml:77
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_armoury_equipment_activity.xml:146
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_splash.xml:58
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_manager.xml:97
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_about.xml:31
+-keep class androidx.constraintlayout.widget.Guideline { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\res\layout\design_bottom_sheet_dialog.xml:26
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\app_bar_main.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_room.xml:11
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_version310.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_update_data.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_scrolling.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_player_config.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_player.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_multi_image_picker.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_main.xml:18
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_manager.xml:12
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_detail.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout.xml:11
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_image_gallery.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_edit_layout_json.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_armoury_equipment_activity.xml:12
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_add_player.xml:10
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_save_layout.xml:12
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_scrolling.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_layout_detail.xml:2
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\res\layout\abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_main.xml:10
+-keep class androidx.drawerlayout.widget.DrawerLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\war_dashboard_header.xml:162
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\war_dashboard_fragment_squad.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\update_layout_fragment.xml:104
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\playerdetails_resources.xml:20
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\playerdetails_player_defence_log.xml:38
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_recycler_view.xml:17
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_tactical_capacity.xml:129
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_sc_armoury.xml:139
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_card.xml:153
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_detail_tags.xml:23
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_layout_detail_folders.xml:23
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_conflict_data.xml:45
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\layout_card_selected.xml:135
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\layout_card.xml:131
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_version.xml:43
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_images_card.xml:64
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_folder_tag.xml:38
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_favourite_selection.xml:43
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_detail_main.xml:202
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_folder_card.xml:38
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_summary.xml:83
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_signup_search.xml:75
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_signup_memberselect.xml:35
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_sc.xml:23
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_attack.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_save_layout.xml:159
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_playerdetails_layout.xml:29
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_player_favourite_layout.xml:7
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_manage_tag.xml:34
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_layout_folder.xml:118
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_home_screen.xml:7
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_getting_started.xml:133
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_favourite_layouts.xml:64
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_favourite_layout_item.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_db_update_log.xml:110
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_conflict_tracker.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_battle_detail.xml:120
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_add_layout_tag.xml:61
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_multi_image_picker.xml:26
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_main.xml:16
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_edit_layout_json.xml:24
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_armoury_equipment_activity.xml:95
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\card_recycler_no_title.xml:28
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_manager.xml:201
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout.xml:44
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_defence_tracker.xml:192
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\playerdetails_player_defence_log.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_playerdetails_layout.xml:2
+-keep class androidx.swiperefreshlayout.widget.SwipeRefreshLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_battlelog_container.xml:43
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_player.xml:78
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_room.xml:92
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_attacks.xml:30
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_v4_welcome.xml:2
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_save_layout_.xml:35
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_logs.xml:34
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_typetag.xml:39
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_image_gallery.xml:22
+-keep class androidx.viewpager.widget.ViewPager { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\image_dialog.xml:8
+-keep class com.github.chrisbanes.photoview.PhotoView { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_piechart_half.xml:6
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_piechart.xml:6
+-keep class com.github.mikephil.charting.charts.PieChart { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\app_bar_main.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_signup.xml:15
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_room.xml:21
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_attacks.xml:11
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_version310.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_update_data.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_settings.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_scrolling.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_say_thanks.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_save_layout_.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_player_config.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_player.xml:17
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_multi_image_picker.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_main.xml:23
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_logs.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_typetag.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_manager.xml:17
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_detail.xml:18
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_edit_layout_json.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_defence_tracker.xml:10
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_armoury_equipment_activity.xml:17
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_add_player.xml:15
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_about.xml:10
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_scrolling.xml:17
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_detail.xml:25
+-keep class com.google.android.material.appbar.CollapsingToolbarLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\spinner_view.xml:30
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_player.xml:145
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_card.xml:206
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_favourite_layout_simple.xml:47
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_favourite_layout.xml:81
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_droid_card.xml:121
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\layout_card.xml:169
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_images_card.xml:30
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\include_layout_detail_main.xml:214
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_signup_search.xml:34
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_sc.xml:38
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_dash_signup.xml:201
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_text_view.xml:30
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_save_layout.xml:111
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_manage_tag.xml:15
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_layout_folder.xml:142
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_add_layout_tag.xml:90
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_edit_layout_json.xml:38
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_armoury_equipment_activity.xml:68
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_add_player.xml:98
+-keep class com.google.android.material.button.MaterialButton { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_save_layout.xml:342
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\app_bar_main.xml:25
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_room.xml:104
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_scrolling.xml:38
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_save_layout_.xml:46
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_player_config.xml:25
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_player.xml:111
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_multi_image_picker.xml:51
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_main.xml:84
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_manager.xml:236
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_detail.xml:64
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout.xml:55
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_edit_layout_json.xml:26
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_armoury_equipment_activity.xml:31
+-keep class com.google.android.material.floatingactionbutton.FloatingActionButton { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\res\layout\design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\res\layout\design_text_input_password_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\res\layout\design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\res\layout\design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_main.xml:95
+-keep class com.google.android.material.navigation.NavigationView { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\res\layout\design_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\res\layout\design_layout_snackbar_include_material.xml:18
+# Referenced at C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\res\layout\design_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\favourite_layout_tabs.xml:20
+-keep class com.google.android.material.tabs.TabItem { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_battlelog_container.xml:31
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\favourite_layout_tabs.xml:9
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_room.xml:68
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_war_attacks.xml:22
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_save_layout_.xml:21
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_player.xml:84
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_logs.xml:19
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_layout_typetag.xml:32
+-keep class com.google.android.material.tabs.TabLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\war_details_time_hrmin.xml:16
+-keep class com.google.android.material.textfield.TextInputEditText { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\war_details_timestart.xml:6
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\war_details_time_hrmin.xml:7
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_war_signup_search.xml:15
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_layout_folder.xml:63
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\youtubefragment.xml:2
+-keep class com.google.android.youtube.player.YouTubePlayerSupportFragment { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_version310.xml:1
+-keep class com.swctools.activity_modules.Version310Fragment { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\xml\pref_headers.xml:15
+-keep class com.swctools.activity_modules.config_screens.SettingsActivity$DataSyncPreferenceFragment { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\xml\pref_headers.xml:5
+-keep class com.swctools.activity_modules.config_screens.SettingsActivity$GeneralPreferenceFragment { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\xml\pref_headers.xml:10
+-keep class com.swctools.activity_modules.config_screens.SettingsActivity$NotificationPreferenceFragment { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_image_gallery.xml:42
+-keep class com.swctools.activity_modules.gallery.PinchZoomPan { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_player_config.xml:1
+-keep class com.swctools.activity_modules.player_config.PlayerConfigFragment { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_war_outpost.xml:8
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_tactical_capacity.xml:47
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_player_sc_armoury.xml:45
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_droid_card.xml:38
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_conflict_data.xml:18
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_armoury_available.xml:26
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_armoury_added_small.xml:25
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\list_item_armoury_added.xml:26
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\fragment_battle_detail.xml:72
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\content_player.xml:48
+-keep class de.hdodenhof.circleimageview.CircleImageView { <init>(...); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_add_player.xml:110
+-keepclassmembers class * { *** onClearClick(android.view.View); }
+
+# Referenced at C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\res\layout\activity_add_player.xml:159
+-keepclassmembers class * { *** performFileSearch(android.view.View); }
+

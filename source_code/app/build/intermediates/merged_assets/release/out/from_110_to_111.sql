@@ -1,0 +1,2 @@
+ALTER TABLE layout_types ADD COLUMN new_id INTEGER;
+ALTER TABLE layout_tags ADD COLUMN was_tag INTEGER;

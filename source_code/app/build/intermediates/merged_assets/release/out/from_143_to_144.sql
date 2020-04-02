@@ -1,0 +1,1 @@
+UPDATE data_version SET app_table_version = 0;

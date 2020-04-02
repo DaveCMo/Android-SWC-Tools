@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="player_details_expanded_hint">Tap lock to expand/collapse by default</string>
+    <string name="imagePickerHelp">Tap on an image to add a description. Long press to enter selection mode and delete any unwanted images.</string>
+    <string name="wiki_git_link">https://github.com/DaveCMo/Android-SWC-Tools/wiki</string>
+    <string name="youtubelink">https://www.youtube.com/playlist?list=PLOZarPU-nKm8k7ETeYClrz2l9XDaNdQd-</string>
+    <string name="contactinfo">LINE: ddavecmo \nEmail: sfone.swctools@gmail.com</string>
+    <string name="longdateexample">17-Aug-2019 04:08:19</string>
+    <string name="wartroopdisclaimer">Important note: this only shows the troops in the attacker\' s transports, hero command and air command, and which of their droids were \'live\' during the attack. It is not possible to confirm which troops were deployed, or what was in the attacker\'s SC.</string>    <string name="savelayoutlabel">Save layout</string>
+    <string name="wardashdisclaimer">Important note: This Dashboard uses the player account you select to log in and retrieve the data displayed here. This means it could trigger heroic defence timers, or even kick you out of any active session you have if you are playing on another device. IE, don’t be attacking on another device when you click the blue button!</string>
+    <string name="set_pvp_button">SET PVP</string>
+    <string name="set_war_button">SET WAR</string>
+</resources>

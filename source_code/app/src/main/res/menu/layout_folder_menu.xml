@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/layout_folderRename"
+        android:title="Rename Folder"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/layout_folderMove"
+        android:title="Move Folder"
+        app:showAsAction="always" />
+    <item android:id="@+id/layout_folderDelete"
+        android:title="Delete Folder"
+        app:showAsAction="always"/>
+
+</menu>

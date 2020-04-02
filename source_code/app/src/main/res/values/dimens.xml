@@ -1,0 +1,56 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fabScaleX">0.7</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="row_padding_vertical">10dp</dimen>
+    <dimen name="defence_loot_view">60dp</dimen>
+    <dimen name="fab_label">5dp</dimen>
+    <dimen name="fab_card_radius">5dp</dimen>
+    <dimen name="fab_label_spacing">16dp</dimen>
+    <dimen name="fab_label_elevation">5dp</dimen>
+    <dimen name="fabAnimScale">0.7</dimen>
+    <dimen name="fabAnimPivot">90%</dimen>
+    <dimen name="roundedCardHoriz">8dp</dimen>
+    <dimen name="filterSpinnerLeftMargin">8dp</dimen>
+    <dimen name="filterSpinnerRightMargin">16dp</dimen>
+    <dimen name="filterSpinnerTopMargin">0dp</dimen>
+    <dimen name="filterSpinnerBottomMargin">8dp</dimen>
+
+    <dimen name="filterLabelSpinnerLeftMargin">16dp</dimen>
+    <dimen name="filterLabelSpinnerRightMargin">24dp</dimen>
+    <dimen name="filterLabelSpinnerTopMargin">8dp</dimen>
+    <dimen name="filterLabelSpinnerFirstTopMargin">16dp</dimen>
+    <dimen name="filterLabelSpinnerBottomMargin">8dp</dimen>
+    <dimen name="drawer_menu_icon_left">16dp</dimen>
+    <dimen name="drawer_menu_label_left">16dp</dimen>
+    <dimen name="player_details_card_elevation">0dp</dimen>
+    <dimen name="layout_details_card_elevation">0dp</dimen>
+    <dimen name="player_details_card_radius">6dp</dimen>
+    <dimen name="player_details_lr_padding">24dp</dimen>
+    <dimen name="player_details_lr_margin">8dp</dimen>
+    <dimen name="player_details_tb_margin">16dp</dimen>
+    <dimen name="layout_card_start">24dp</dimen>
+    <dimen name="list_item_3_part_vertical_margin">2dp</dimen>
+    <dimen name="layout_card_radius">8dp</dimen>
+    <dimen name="save_layout_lr_padding">0dp</dimen>
+    <dimen name="app_bar_height">220dp</dimen>
+    <dimen name="pill_corner_radius">12dp</dimen>
+    <dimen name="material_button_stroke_width">2dp</dimen>
+    <dimen name="material_button_small_height">40dp</dimen>
+    <dimen name="material_button_corner_radius">10dp</dimen>
+
+    <dimen name="player_card_bottom_margin">32dp</dimen>
+    <dimen name="card_radius">3dp</dimen>
+    <dimen name="action_bar_default_size">56dp</dimen>
+    <dimen name="action_bar_large">250dp</dimen>
+
+    <dimen name="default_elevation">0dp</dimen>
+    <dimen name="item_offset">8dp</dimen>
+    <dimen name="no_elevation">0dp</dimen>
+</resources>

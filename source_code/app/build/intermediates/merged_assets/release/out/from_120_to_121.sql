@@ -1,0 +1,1 @@
+ALTER TABLE planets ADD COLUMN war_name TEXT;

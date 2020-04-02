@@ -1,0 +1,544 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:2:1-231:12
+INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:2:1-231:12
+INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:2:1-231:12
+INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:2:1-231:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:17:1-42:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\efd9ecc73d25e527cbce3bd42254c5a6\legacy-support-v13-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\b4bbbb98aae3fafca79d5ea02670ee2b\legacy-support-v4-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\81850c5264e0e4765003998083c6dc19\recyclerview-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\434a9c36b14c84726e783df82e1271c2\media-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2eaf387da4dd7dab7f2a9d7180d69310\transition-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\40e9795778faf1315470b05f33471b6b\glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\4f680f5cab482b7966fa9c805ac0cb70\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\61965e5c06bda9445c13760f9d9ef779\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\ec593f8d91037f6ef1bbcd6a177afa1c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\4f8b5527496d67480951cc322460db7f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\5276819c062a92c029464122749254f1\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\fb64895045b937c99805be897a2a6961\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\4932f7e67b26f042b51fa62f1aa4816d\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\8849109129fcb2f39779166fb64480b1\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\00bc847ce5b9e3ce7b40d465bffbf9e9\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\5ad830c9e1047f79e3f0f7e9e42ab8ab\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\a3c457ded457b98b207b4f227d629399\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\3d4a3c67e39fa8d6d0c0f126c28b81d8\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\82b148795609bbbaf8e825fc2ff2a6bf\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\246153fc0686d4ff78c8961ca91329b7\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.0.3] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\e835e6db16bd35b719995912d972001c\jetified-threetenabp-1.0.3\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\47a506d8713f558de59c1f944192609b\cardview-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\10c989ab19791d74e073a3e0b95c6b62\jetified-circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.captain-miao:optroundcardview:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\aa1dc5b8dfb4e53881e34683d0151261\optroundcardview-1.0.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\eb3a9146f5d372fd624d6a76eb9a5bc9\MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\e671e9f00c2780be6d3d0096a67e519b\gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\664f4ae009672f8d49f9e02edae5cc02\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\4c7e5b6d46acfb24c04b3a473c53b419\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\94d1bdd9d3f5e77b2c2deb76d0ecef77\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\63647da4654da12a6f2785cfbbad8123\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\733fc1d306cee2c05d3e1fb0b7527020\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\fb2fbe77879a57ea0c5dfd6fe59ba874\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\3a992d8307f21a8f15eb649383ba6a6a\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\f582580d3eb247a74d915a27810a4674\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\c75155371656c04dff3a027cdeb13e8a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\53b4a4cf87c0ff501a8c414cec884555\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:2:1-231:12
+INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:2:1-231:12
+INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:2:1-231:12
+	package
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:4:5-27
+		INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:2:1-231:12
+		INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:2:1-231:12
+		INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:11:22-74
+application
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:13:5-229:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\40e9795778faf1315470b05f33471b6b\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\40e9795778faf1315470b05f33471b6b\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\246153fc0686d4ff78c8961ca91329b7\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\246153fc0686d4ff78c8961ca91329b7\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.0.3] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\e835e6db16bd35b719995912d972001c\jetified-threetenabp-1.0.3\AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.0.3] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\e835e6db16bd35b719995912d972001c\jetified-threetenabp-1.0.3\AndroidManifest.xml:8:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\10c989ab19791d74e073a3e0b95c6b62\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\10c989ab19791d74e073a3e0b95c6b62\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.captain-miao:optroundcardview:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\aa1dc5b8dfb4e53881e34683d0151261\optroundcardview-1.0.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.captain-miao:optroundcardview:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\aa1dc5b8dfb4e53881e34683d0151261\optroundcardview-1.0.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\e671e9f00c2780be6d3d0096a67e519b\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\e671e9f00c2780be6d3d0096a67e519b\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:supportsRtl
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:18:9-41
+	android:appComponentFactory
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:16:9-82
+		REJECTED from [androidx.core:core:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\246153fc0686d4ff78c8961ca91329b7\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:roundIcon
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:21:9-40
+	tools:replace
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:14:9-28
+activity#com.swctools.activity_modules.armoury_equipment.ArmouryEquipmentActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:23:9-26:68
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:25:13-78
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:24:13-88
+activity#com.swctools.activity_modules.image_db_to_disk_migration.DBToDiskImageActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:27:9-103
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:27:19-100
+activity#com.swctools.Sandbox.HalfPieChartActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:28:9-30:52
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:29:13-57
+activity#com.swctools.Sandbox.PieChartActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:31:9-33:40
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:32:13-53
+activity#com.swctools.activity_modules.war_battles.WarBattles
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:34:9-41:20
+	android:parentActivityName
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:37:13-84
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:36:13-63
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:35:13-68
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:38:13-40:90
+	android:value
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:40:17-87
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:39:17-63
+activity#com.swctools.activity_modules.ReleaseNotesActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:42:9-44:68
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:44:13-65
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:43:13-66
+activity#com.swctools.activity_modules.Version4Setup
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:45:9-47:69
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:46:13-59
+activity#com.swctools.activity_modules.V4WelcomeActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:48:9-50:65
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:50:13-62
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:49:13-63
+activity#com.swctools.activity_modules.import_json.ImportJsonActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:51:9-59:20
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:51:19-82
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:52:13-58:29
+	tools:ignore
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:52:28-58
+action#android.intent.action.SEND
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:55:27-73
+data
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:57:17-48
+	android:mimeType
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:57:23-45
+activity#com.swctools.activity_modules.about.AboutActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:60:9-74
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:60:19-71
+activity#com.swctools.activity_modules.gallery.ImageGalleryActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:61:9-64:59
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:63:13-65
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:62:13-74
+activity#com.swctools.activity_modules.multi_image_picker.MultiImagePicker
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:65:9-68:59
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:67:13-70
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:68:13-56
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:66:13-81
+activity#com.swctools.activity_modules.layout_detail.LayoutDetail
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:69:9-77:20
+	android:parentActivityName
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:72:13-88
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:71:13-65
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:73:13-45
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:70:13-72
+activity#com.swctools.activity_modules.Version310
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:78:9-85:20
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:80:13-62
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:81:13-56
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:79:13-56
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:82:13-84:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:83:17-69
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:83:25-66
+activity#com.swctools.activity_modules.EditLayoutJson.EditLayoutJsonActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:86:9-90:59
+	android:parentActivityName
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:89:13-66
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:88:13-68
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:90:13-56
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:87:13-83
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:92:9-101:20
+	android:grantUriPermissions
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:97:13-47
+	android:enabled
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:95:13-35
+	android:authorities
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:94:13-47
+	android:exported
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:96:13-37
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:93:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:98:13-100:58
+	android:resource
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:100:17-55
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:99:17-67
+activity#com.swctools.activity_modules.main.MainActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:103:9-107:47
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:105:13-45
+	android:launchMode
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:106:13-44
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:107:13-44
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:104:13-63
+activity#com.swctools.activity_modules.add_player.AddPlayerActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:108:9-115:20
+	android:parentActivityName
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:110:13-77
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:111:13-45
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:109:13-74
+activity#com.swctools.activity_modules.war_sign_up.WarSignup
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:116:9-124:20
+	android:parentActivityName
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:118:13-81
+	android:windowSoftInputMode
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:120:13-56
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:119:13-44
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:117:13-67
+activity#com.swctools.activity_modules.config_screens.SettingsActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:125:9-132:20
+	android:parentActivityName
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:128:13-77
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:127:13-60
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:126:13-77
+activity#com.swctools.activity_modules.player.PlayerActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:133:9-140:20
+	android:parentActivityName
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:136:13-77
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:135:13-58
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:134:13-67
+activity#com.swctools.activity_modules.save_layout.SaveLayout_Activity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:141:9-147:20
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:143:13-51
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:142:13-77
+activity#com.swctools.activity_modules.layout_manager.LayoutManager
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:148:9-152:20
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:148:19-80
+activity#com.swctools.activity_modules.logs.LogsActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:153:9-157:20
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:153:19-69
+activity#com.swctools.activity_modules.defence_tracker.DefenceTrackerActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:158:9-162:20
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:158:19-90
+activity#com.swctools.activity_modules.tags_types.ManageTypeTagActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:163:9-167:20
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:163:19-84
+activity#com.swctools.activity_modules.Splash
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:168:9-177:20
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:170:13-45
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:169:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:171:13-176:29
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:171:28-60
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:175:17-77
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:175:27-74
+service#com.swctools.activity_modules.updates.UpdateService
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:179:9-183:45
+	android:enabled
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:181:13-35
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:183:13-42
+	android:exported
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:182:13-37
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:180:13-67
+service#com.swctools.swc_server_interactions.services.ManifestUpdateService
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:184:9-186:40
+	android:exported
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:186:13-37
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:185:13-83
+service#com.swctools.activity_modules.defence_tracker.DefenceLogJobService
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:187:9-189:72
+	android:permission
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:189:13-69
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:188:13-82
+receiver#com.swctools.common.notifications.NotificationDismissedReceiver
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:191:9-193:40
+	android:exported
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:193:13-37
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:192:13-79
+activity#com.swctools.activity_modules.say_thanks.SayThanksActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:195:9-83
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:195:19-80
+meta-data#preloaded_fonts
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:197:9-199:57
+	android:resource
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:199:13-54
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:198:13-43
+activity#com.swctools.activity_modules.TestShit
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:201:9-63
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:201:19-60
+activity#com.swctools.activity_modules.updates.UpdateDataActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:202:9-210:20
+	android:parentActivityName
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:205:13-77
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:204:13-63
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:206:13-44
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:203:13-72
+activity#com.swctools.activity_modules.war_room.WarRoomActivity
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:211:9-219:20
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:213:13-65
+	android:windowSoftInputMode
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:215:13-54
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:214:13-44
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:212:13-70
+activity#com.swctools.activity_modules.player_config.PlayerConfig
+ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:220:9-228:20
+	android:parentActivityName
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:223:13-77
+	android:label
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:222:13-65
+	android:theme
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:224:13-44
+	android:name
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml:221:13-72
+uses-sdk
+INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\efd9ecc73d25e527cbce3bd42254c5a6\legacy-support-v13-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\efd9ecc73d25e527cbce3bd42254c5a6\legacy-support-v13-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\b4bbbb98aae3fafca79d5ea02670ee2b\legacy-support-v4-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\b4bbbb98aae3fafca79d5ea02670ee2b\legacy-support-v4-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\717dd50903df0f54f313409274e15d7f\material-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\81850c5264e0e4765003998083c6dc19\recyclerview-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\81850c5264e0e4765003998083c6dc19\recyclerview-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2ff3a8ae1b644dbbda35fe1cc0eff9c0\appcompat-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\434a9c36b14c84726e783df82e1271c2\media-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\434a9c36b14c84726e783df82e1271c2\media-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2eaf387da4dd7dab7f2a9d7180d69310\transition-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\2eaf387da4dd7dab7f2a9d7180d69310\transition-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\40e9795778faf1315470b05f33471b6b\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\40e9795778faf1315470b05f33471b6b\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\4f680f5cab482b7966fa9c805ac0cb70\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\4f680f5cab482b7966fa9c805ac0cb70\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\61965e5c06bda9445c13760f9d9ef779\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\61965e5c06bda9445c13760f9d9ef779\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\ec593f8d91037f6ef1bbcd6a177afa1c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\ec593f8d91037f6ef1bbcd6a177afa1c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\4f8b5527496d67480951cc322460db7f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\4f8b5527496d67480951cc322460db7f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\5276819c062a92c029464122749254f1\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\5276819c062a92c029464122749254f1\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\fb64895045b937c99805be897a2a6961\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\fb64895045b937c99805be897a2a6961\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\4932f7e67b26f042b51fa62f1aa4816d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\4932f7e67b26f042b51fa62f1aa4816d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\8849109129fcb2f39779166fb64480b1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\8849109129fcb2f39779166fb64480b1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\00bc847ce5b9e3ce7b40d465bffbf9e9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\00bc847ce5b9e3ce7b40d465bffbf9e9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\5ad830c9e1047f79e3f0f7e9e42ab8ab\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\5ad830c9e1047f79e3f0f7e9e42ab8ab\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\a3c457ded457b98b207b4f227d629399\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\a3c457ded457b98b207b4f227d629399\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\3d4a3c67e39fa8d6d0c0f126c28b81d8\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\3d4a3c67e39fa8d6d0c0f126c28b81d8\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\82b148795609bbbaf8e825fc2ff2a6bf\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\82b148795609bbbaf8e825fc2ff2a6bf\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\246153fc0686d4ff78c8961ca91329b7\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\246153fc0686d4ff78c8961ca91329b7\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.0.3] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\e835e6db16bd35b719995912d972001c\jetified-threetenabp-1.0.3\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.0.3] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\e835e6db16bd35b719995912d972001c\jetified-threetenabp-1.0.3\AndroidManifest.xml:6:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\47a506d8713f558de59c1f944192609b\cardview-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\47a506d8713f558de59c1f944192609b\cardview-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\10c989ab19791d74e073a3e0b95c6b62\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\10c989ab19791d74e073a3e0b95c6b62\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.captain-miao:optroundcardview:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\aa1dc5b8dfb4e53881e34683d0151261\optroundcardview-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.captain-miao:optroundcardview:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\aa1dc5b8dfb4e53881e34683d0151261\optroundcardview-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\eb3a9146f5d372fd624d6a76eb9a5bc9\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\eb3a9146f5d372fd624d6a76eb9a5bc9\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\e671e9f00c2780be6d3d0096a67e519b\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\e671e9f00c2780be6d3d0096a67e519b\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\664f4ae009672f8d49f9e02edae5cc02\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\664f4ae009672f8d49f9e02edae5cc02\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\4c7e5b6d46acfb24c04b3a473c53b419\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\4c7e5b6d46acfb24c04b3a473c53b419\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\94d1bdd9d3f5e77b2c2deb76d0ecef77\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\94d1bdd9d3f5e77b2c2deb76d0ecef77\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\63647da4654da12a6f2785cfbbad8123\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\63647da4654da12a6f2785cfbbad8123\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\733fc1d306cee2c05d3e1fb0b7527020\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\733fc1d306cee2c05d3e1fb0b7527020\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\fb2fbe77879a57ea0c5dfd6fe59ba874\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\fb2fbe77879a57ea0c5dfd6fe59ba874\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\3a992d8307f21a8f15eb649383ba6a6a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\3a992d8307f21a8f15eb649383ba6a6a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\f582580d3eb247a74d915a27810a4674\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\f582580d3eb247a74d915a27810a4674\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\c75155371656c04dff3a027cdeb13e8a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\c75155371656c04dff3a027cdeb13e8a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\53b4a4cf87c0ff501a8c414cec884555\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\53b4a4cf87c0ff501a8c414cec884555\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\davec\Documents\GitHub\SWCTools\app\src\main\AndroidManifest.xml
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\davec\.gradle\caches\transforms-2\files-2.1\64f1f273d20e47d5319666d9d0452ee0\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:37:25-84
