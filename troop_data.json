@@ -1483,7 +1483,7 @@
 				{
 			"cap": "15",
 			"faction": "empire",
-			"game_name": "troopEmpireHeavyATMPHalfSkinSample",
+			"game_name": "troopEmpireATMPHalfSkinSample",
 			"maxLevel": 11,
 			"minLevel": 1,
 			"ui_name": "Enhanced AT-MP Walker"
@@ -1501,6 +1501,36 @@
 			"maxLevel": 11,
 			"minLevel": 1,
 			"ui_name": "Undead Scout Trooper"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopRebelT2bTankHalfSkinSample",
+			"maxLevel": 11,
+			"minLevel": 1,
+			"ui_name": "Enhanced T2-B Repulsor Tank"
+		},
+		{
+			"cap": "1",
+			"faction": "rebel",
+			"game_name": "troopRebelATAPHalfSkinSample",
+			"maxLevel": 11,
+			"minLevel": 1,
+			"ui_name": "Enhanced AT-AP Walker"
+		},{
+			"cap": "20",
+			"faction": "rebel",
+			"game_name": "troopRancor10Rebel",
+			"maxLevel": null,
+			"minLevel": null,
+			"ui_name": "Rancor"
+		},{
+			"cap": "20",
+			"faction": "empire",
+			"game_name": "troopRancor10Rebel",
+			"maxLevel": null,
+			"minLevel": null,
+			"ui_name": "Rancor"
 		}
 				
 		
