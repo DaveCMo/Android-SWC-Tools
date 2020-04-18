@@ -32,8 +32,8 @@
         "latestVersion": 3
       },
       {
-      "name":"name_change_passes",
-      "url":"https://raw.githubusercontent.com/DaveCMo/Android-SWC-Tools/master/name_change_passes",
+      "name":"keys",
+      "url":"https://raw.githubusercontent.com/DaveCMo/Android-SWC-Tools/master/keys",
       "latestVersion":1}
     ]
   }
