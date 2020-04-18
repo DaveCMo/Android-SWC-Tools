@@ -1,7 +1,7 @@
 {
   "app_update": {
-    "latestVersion": 176,
-    "releaseLabel": "v5.0.3",
+    "latestVersion": 179,
+    "releaseLabel": "v5.0.4",
     "release_url": "https://github.com/DaveCMo/Android-SWC-Tools/releases/latest"
   },
   "data_update": {
